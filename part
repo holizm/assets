@@ -1,0 +1,59 @@
+assetStatus options
+    planned
+    active
+    inactive
+    underMaintenance
+    disposed
+    lost
+assetCondition options
+    new
+    good
+    fair
+    poor
+    damaged
+assetDepreciationMethod options
+    straightLine
+    decliningBalance
+    unitsOfProduction
+    none
+assetCategory
+    title
+    code
+    description optional
+    unique code
+asset
+    title
+    code
+    assetCategory
+    serialNumber optional
+    acquisitionDate optional
+    acquisitionCost realNumber optional
+    currency optional
+    location optional
+    assetStatus
+    assetCondition
+    usefulLifeMonths integer optional
+    residualValue realNumber optional
+    assetDepreciationMethod optional
+    description optional
+    unique code
+assetAssignment
+    asset
+    assignee
+    assignedDate
+    returnedDate optional
+    description optional
+assetDepreciation
+    asset
+    periodDate
+    openingValue realNumber
+    depreciationAmount realNumber
+    closingValue realNumber
+    unique asset periodDate
+assetDisposal
+    asset
+    disposalDate
+    disposalValue realNumber optional
+    currency optional
+    reason
+    buyer optional
