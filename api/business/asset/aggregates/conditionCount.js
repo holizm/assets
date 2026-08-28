@@ -1,0 +1,4 @@
+[
+    { $match: { assetCondition } },
+    { $count: 'count' },
+]

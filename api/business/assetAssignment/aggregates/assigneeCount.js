@@ -1,0 +1,4 @@
+[
+    { $match: { assignee } },
+    { $count: 'count' },
+]

@@ -1,0 +1,4 @@
+[
+    { $match: { asset } },
+    { $count: 'count' },
+]
