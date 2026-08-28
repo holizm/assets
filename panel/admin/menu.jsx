@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'precisionManufacturing',
+        path: '/assets',
         title: 'assetsAssetManagement',
     },
 ]
