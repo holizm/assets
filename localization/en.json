@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "acquisitionCost": "Acquisition cost",
+        "acquisitionDate": "Acquisition date",
+        "asset": "Asset",
+        "assetCategories": "Asset categories",
+        "assetCategory": "Asset category",
+        "assetManagement": "Asset management",
+        "assets": "Assets",
+        "code": "Code",
+        "condition": "Condition",
+        "description": "Description",
+        "serialNumber": "Serial number",
+        "status": "Status"
+    },
+    "site": {
+        "asset": "Asset",
+        "condition": "Condition",
+        "status": "Status"
+    }
+}
