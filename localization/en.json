@@ -2,15 +2,12 @@
     "common": {
         "asset": "Asset",
         "condition": "Condition",
-        "status": "Status",
         "acquisitionCost": "Acquisition cost",
         "acquisitionDate": "Acquisition date",
         "assetCategories": "Asset categories",
         "assetCategory": "Asset category",
         "assetManagement": "Asset management",
         "assets": "Assets",
-        "code": "Code",
-        "description": "Description",
         "serialNumber": "Serial number"
     }
 }

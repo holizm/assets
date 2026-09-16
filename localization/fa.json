@@ -2,15 +2,12 @@
     "common": {
         "asset": "دارایی",
         "condition": "وضعیت فیزیکی",
-        "status": "وضعیت",
         "acquisitionCost": "هزینه خرید",
         "acquisitionDate": "تاریخ خرید",
         "assetCategories": "دسته‌های دارایی",
         "assetCategory": "دسته دارایی",
         "assetManagement": "مدیریت دارایی‌ها",
         "assets": "دارایی‌ها",
-        "code": "کد",
-        "description": "توضیحات",
         "serialNumber": "شماره سریال"
     }
 }
