@@ -1,23 +1,16 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "asset": "دارایی",
+        "condition": "وضعیت فیزیکی",
+        "status": "وضعیت",
         "acquisitionCost": "هزینه خرید",
         "acquisitionDate": "تاریخ خرید",
-        "asset": "دارایی",
         "assetCategories": "دسته‌های دارایی",
         "assetCategory": "دسته دارایی",
         "assetManagement": "مدیریت دارایی‌ها",
         "assets": "دارایی‌ها",
         "code": "کد",
-        "condition": "وضعیت فیزیکی",
         "description": "توضیحات",
-        "serialNumber": "شماره سریال",
-        "status": "وضعیت"
-    },
-    "site": {
-        "asset": "دارایی",
-        "condition": "وضعیت فیزیکی",
-        "status": "وضعیت"
+        "serialNumber": "شماره سریال"
     }
 }
