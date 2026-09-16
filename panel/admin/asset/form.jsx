@@ -41,7 +41,7 @@ const inputs = <>
             'disposed',
             'lost',
         ]}
-        placeholder='assetsStatus'
+        placeholder='stateMachinesState'
         property='assetStatus'
         required
     />

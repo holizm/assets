@@ -10,7 +10,7 @@ const headers = <>
     <th>assetsCode</th>
     <th>assetsSerialNumber</th>
     <th>assetsCondition</th>
-    <th>assetsStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
