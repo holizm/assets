@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "সম্পদ",
+        "condition": "অবস্থা",
+        "acquisitionCost": "অধিগ্রহণ ব্যয়",
+        "acquisitionDate": "অধিগ্রহণের তারিখ",
+        "assetCategories": "সম্পদের বিভাগসমূহ",
+        "assetCategory": "সম্পদের বিভাগ",
+        "assetManagement": "সম্পদ ব্যবস্থাপনা",
+        "assets": "সম্পদসমূহ",
+        "serialNumber": "ক্রমিক নম্বর"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Πάγιο",
+        "condition": "Κατάσταση",
+        "acquisitionCost": "Κόστος κτήσης",
+        "acquisitionDate": "Ημερομηνία κτήσης",
+        "assetCategories": "Κατηγορίες παγίων",
+        "assetCategory": "Κατηγορία παγίου",
+        "assetManagement": "Διαχείριση παγίων",
+        "assets": "Πάγια",
+        "serialNumber": "Σειριακός αριθμός"
+    }
+}

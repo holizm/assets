@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Raslimali",
+        "condition": "Hali",
+        "acquisitionCost": "Gharama ya ununuzi",
+        "acquisitionDate": "Tarehe ya ununuzi",
+        "assetCategories": "Aina za raslimali",
+        "assetCategory": "Aina ya raslimali",
+        "assetManagement": "Usimamizi wa raslimali",
+        "assets": "Raslimali",
+        "serialNumber": "Nambari tambulishi"
+    }
+}

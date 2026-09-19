@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Eiendel",
+        "condition": "Tilstand",
+        "acquisitionCost": "Anskaffelseskost",
+        "acquisitionDate": "Anskaffelsesdato",
+        "assetCategories": "Eiendelskategorier",
+        "assetCategory": "Eiendelskategori",
+        "assetManagement": "Eiendelsforvaltning",
+        "assets": "Eiendeler",
+        "serialNumber": "Serienummer"
+    }
+}

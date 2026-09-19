@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Anlagegut",
+        "condition": "Zustand",
+        "acquisitionCost": "Anschaffungskosten",
+        "acquisitionDate": "Anschaffungsdatum",
+        "assetCategories": "Anlagekategorien",
+        "assetCategory": "Anlagekategorie",
+        "assetManagement": "Anlagenverwaltung",
+        "assets": "Anlagegüter",
+        "serialNumber": "Seriennummer"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "資產",
+        "condition": "狀況",
+        "acquisitionCost": "購置成本",
+        "acquisitionDate": "購置日期",
+        "assetCategories": "資產類別",
+        "assetCategory": "資產類別",
+        "assetManagement": "資產管理",
+        "assets": "資產",
+        "serialNumber": "序號"
+    }
+}

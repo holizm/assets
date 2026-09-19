@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "ಆಸ್ತಿ",
+        "condition": "ಸ್ಥಿತಿ",
+        "acquisitionCost": "ಸ್ವಾಧೀನ ವೆಚ್ಚ",
+        "acquisitionDate": "ಸ್ವಾಧೀನ ದಿನಾಂಕ",
+        "assetCategories": "ಆಸ್ತಿ ವರ್ಗಗಳು",
+        "assetCategory": "ಆಸ್ತಿ ವರ್ಗ",
+        "assetManagement": "ಆಸ್ತಿ ನಿರ್ವಹಣೆ",
+        "assets": "ಆಸ್ತಿಗಳು",
+        "serialNumber": "ಕ್ರಮ ಸಂಖ್ಯೆ"
+    }
+}

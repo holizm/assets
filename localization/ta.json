@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "சொத்து",
+        "condition": "நிலை",
+        "acquisitionCost": "கையகப்படுத்தல் செலவு",
+        "acquisitionDate": "கையகப்படுத்திய தேதி",
+        "assetCategories": "சொத்து வகைகள்",
+        "assetCategory": "சொத்து வகை",
+        "assetManagement": "சொத்து மேலாண்மை",
+        "assets": "சொத்துகள்",
+        "serialNumber": "வரிசை எண்"
+    }
+}

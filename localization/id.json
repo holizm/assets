@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Aset",
+        "condition": "Kondisi",
+        "acquisitionCost": "Biaya perolehan",
+        "acquisitionDate": "Tanggal perolehan",
+        "assetCategories": "Kategori aset",
+        "assetCategory": "Kategori aset",
+        "assetManagement": "Manajemen aset",
+        "assets": "Aset",
+        "serialNumber": "Nomor seri"
+    }
+}

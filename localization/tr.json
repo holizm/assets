@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Varlık",
+        "condition": "Durum",
+        "acquisitionCost": "Edinme maliyeti",
+        "acquisitionDate": "Edinme tarihi",
+        "assetCategories": "Varlık kategorileri",
+        "assetCategory": "Varlık kategorisi",
+        "assetManagement": "Varlık yönetimi",
+        "assets": "Varlıklar",
+        "serialNumber": "Seri numarası"
+    }
+}

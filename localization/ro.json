@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Activ",
+        "condition": "Stare",
+        "acquisitionCost": "Cost de achiziție",
+        "acquisitionDate": "Data achiziției",
+        "assetCategories": "Categorii de active",
+        "assetCategory": "Categoria activului",
+        "assetManagement": "Gestionarea activelor",
+        "assets": "Active",
+        "serialNumber": "Număr de serie"
+    }
+}

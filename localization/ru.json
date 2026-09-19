@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Актив",
+        "condition": "Состояние",
+        "acquisitionCost": "Стоимость приобретения",
+        "acquisitionDate": "Дата приобретения",
+        "assetCategories": "Категории активов",
+        "assetCategory": "Категория актива",
+        "assetManagement": "Управление активами",
+        "assets": "Активы",
+        "serialNumber": "Серийный номер"
+    }
+}

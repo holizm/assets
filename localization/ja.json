@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "資産",
+        "condition": "状態",
+        "acquisitionCost": "取得原価",
+        "acquisitionDate": "取得日",
+        "assetCategories": "資産カテゴリー",
+        "assetCategory": "資産カテゴリー",
+        "assetManagement": "資産管理",
+        "assets": "資産",
+        "serialNumber": "シリアル番号"
+    }
+}

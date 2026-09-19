@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "اثاثہ",
+        "condition": "حالت",
+        "acquisitionCost": "حصول کی لاگت",
+        "acquisitionDate": "حصول کی تاریخ",
+        "assetCategories": "اثاثوں کے زمرے",
+        "assetCategory": "اثاثے کا زمرہ",
+        "assetManagement": "اثاثہ جات کا انتظام",
+        "assets": "اثاثے",
+        "serialNumber": "سیریل نمبر"
+    }
+}

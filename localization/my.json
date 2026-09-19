@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "ပိုင်ဆိုင်မှု",
+        "condition": "အခြေအနေ",
+        "acquisitionCost": "ဝယ်ယူကုန်ကျစရိတ်",
+        "acquisitionDate": "ဝယ်ယူသည့်ရက်",
+        "assetCategories": "ပိုင်ဆိုင်မှု အမျိုးအစားများ",
+        "assetCategory": "ပိုင်ဆိုင်မှု အမျိုးအစား",
+        "assetManagement": "ပိုင်ဆိုင်မှု စီမံခန့်ခွဲမှု",
+        "assets": "ပိုင်ဆိုင်မှုများ",
+        "serialNumber": "အမှတ်စဉ်"
+    }
+}

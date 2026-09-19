@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "สินทรัพย์",
+        "condition": "สภาพ",
+        "acquisitionCost": "ต้นทุนการได้มา",
+        "acquisitionDate": "วันที่ได้มา",
+        "assetCategories": "หมวดหมู่สินทรัพย์",
+        "assetCategory": "หมวดหมู่สินทรัพย์",
+        "assetManagement": "การจัดการสินทรัพย์",
+        "assets": "สินทรัพย์",
+        "serialNumber": "หมายเลขประจำเครื่อง"
+    }
+}

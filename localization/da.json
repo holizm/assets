@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Aktiv",
+        "condition": "Tilstand",
+        "acquisitionCost": "Anskaffelsespris",
+        "acquisitionDate": "Anskaffelsesdato",
+        "assetCategories": "Aktivkategorier",
+        "assetCategory": "Aktivkategori",
+        "assetManagement": "Aktivstyring",
+        "assets": "Aktiver",
+        "serialNumber": "Serienummer"
+    }
+}

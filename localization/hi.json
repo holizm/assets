@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "परिसंपत्ति",
+        "condition": "स्थिति",
+        "acquisitionCost": "अधिग्रहण लागत",
+        "acquisitionDate": "अधिग्रहण तिथि",
+        "assetCategories": "परिसंपत्ति श्रेणियाँ",
+        "assetCategory": "परिसंपत्ति श्रेणी",
+        "assetManagement": "परिसंपत्ति प्रबंधन",
+        "assets": "परिसंपत्तियाँ",
+        "serialNumber": "क्रमांक"
+    }
+}

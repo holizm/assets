@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "ਸੰਪਤੀ",
+        "condition": "ਹਾਲਤ",
+        "acquisitionCost": "ਪ੍ਰਾਪਤੀ ਲਾਗਤ",
+        "acquisitionDate": "ਪ੍ਰਾਪਤੀ ਮਿਤੀ",
+        "assetCategories": "ਸੰਪਤੀ ਸ਼੍ਰੇਣੀਆਂ",
+        "assetCategory": "ਸੰਪਤੀ ਸ਼੍ਰੇਣੀ",
+        "assetManagement": "ਸੰਪਤੀ ਪ੍ਰਬੰਧਨ",
+        "assets": "ਸੰਪਤੀਆਂ",
+        "serialNumber": "ਲੜੀ ਨੰਬਰ"
+    }
+}

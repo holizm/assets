@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Tillgång",
+        "condition": "Skick",
+        "acquisitionCost": "Anskaffningskostnad",
+        "acquisitionDate": "Anskaffningsdatum",
+        "assetCategories": "Tillgångskategorier",
+        "assetCategory": "Tillgångskategori",
+        "assetManagement": "Tillgångsförvaltning",
+        "assets": "Tillgångar",
+        "serialNumber": "Serienummer"
+    }
+}

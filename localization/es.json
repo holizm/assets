@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Activo",
+        "condition": "Estado",
+        "acquisitionCost": "Coste de adquisición",
+        "acquisitionDate": "Fecha de adquisición",
+        "assetCategories": "Categorías de activos",
+        "assetCategory": "Categoría de activo",
+        "assetManagement": "Gestión de activos",
+        "assets": "Activos",
+        "serialNumber": "Número de serie"
+    }
+}

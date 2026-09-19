@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Asset",
+        "condition": "Kondisyon",
+        "acquisitionCost": "Gastos sa pagkuha",
+        "acquisitionDate": "Petsa ng pagkuha",
+        "assetCategories": "Mga kategorya ng asset",
+        "assetCategory": "Kategorya ng asset",
+        "assetManagement": "Pamamahala ng asset",
+        "assets": "Mga asset",
+        "serialNumber": "Serial number"
+    }
+}

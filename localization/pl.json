@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Składnik majątku",
+        "condition": "Stan",
+        "acquisitionCost": "Koszt nabycia",
+        "acquisitionDate": "Data nabycia",
+        "assetCategories": "Kategorie majątku",
+        "assetCategory": "Kategoria majątku",
+        "assetManagement": "Zarządzanie majątkiem",
+        "assets": "Składniki majątku",
+        "serialNumber": "Numer seryjny"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Kadara",
+        "condition": "Yanayi",
+        "acquisitionCost": "Kudin saye",
+        "acquisitionDate": "Ranar saye",
+        "assetCategories": "Rukunin kadarori",
+        "assetCategory": "Rukunin kadara",
+        "assetManagement": "Gudanar da kadarori",
+        "assets": "Kadarori",
+        "serialNumber": "Lambar jeri"
+    }
+}

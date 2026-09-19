@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "أصل",
+        "condition": "الحالة",
+        "acquisitionCost": "تكلفة الاقتناء",
+        "acquisitionDate": "تاريخ الاقتناء",
+        "assetCategories": "فئات الأصول",
+        "assetCategory": "فئة الأصل",
+        "assetManagement": "إدارة الأصول",
+        "assets": "الأصول",
+        "serialNumber": "الرقم التسلسلي"
+    }
+}

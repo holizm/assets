@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Käyttöomaisuus",
+        "condition": "Kunto",
+        "acquisitionCost": "Hankintameno",
+        "acquisitionDate": "Hankintapäivä",
+        "assetCategories": "Omaisuusluokat",
+        "assetCategory": "Omaisuusluokka",
+        "assetManagement": "Omaisuudenhallinta",
+        "assets": "Omaisuus",
+        "serialNumber": "Sarjanumero"
+    }
+}

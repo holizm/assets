@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Bate",
+        "condition": "Toestand",
+        "acquisitionCost": "Verkrygingskoste",
+        "acquisitionDate": "Verkrygingsdatum",
+        "assetCategories": "Batekategorieë",
+        "assetCategory": "Batekategorie",
+        "assetManagement": "Batebestuur",
+        "assets": "Bates",
+        "serialNumber": "Reeksnommer"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Eszköz",
+        "condition": "Állapot",
+        "acquisitionCost": "Beszerzési költség",
+        "acquisitionDate": "Beszerzés dátuma",
+        "assetCategories": "Eszközkategóriák",
+        "assetCategory": "Eszközkategória",
+        "assetManagement": "Eszközgazdálkodás",
+        "assets": "Eszközök",
+        "serialNumber": "Sorozatszám"
+    }
+}

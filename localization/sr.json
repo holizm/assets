@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Средство",
+        "condition": "Стање",
+        "acquisitionCost": "Набавна вредност",
+        "acquisitionDate": "Датум набавке",
+        "assetCategories": "Категорије средстава",
+        "assetCategory": "Категорија средства",
+        "assetManagement": "Управљање средствима",
+        "assets": "Средства",
+        "serialNumber": "Серијски број"
+    }
+}

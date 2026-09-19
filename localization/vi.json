@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Tài sản",
+        "condition": "Tình trạng",
+        "acquisitionCost": "Chi phí mua",
+        "acquisitionDate": "Ngày mua",
+        "assetCategories": "Danh mục tài sản",
+        "assetCategory": "Danh mục tài sản",
+        "assetManagement": "Quản lý tài sản",
+        "assets": "Tài sản",
+        "serialNumber": "Số sê-ri"
+    }
+}

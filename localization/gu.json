@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "સંપત્તિ",
+        "condition": "સ્થિતિ",
+        "acquisitionCost": "પ્રાપ્તિ ખર્ચ",
+        "acquisitionDate": "પ્રાપ્તિ તારીખ",
+        "assetCategories": "સંપત્તિ શ્રેણીઓ",
+        "assetCategory": "સંપત્તિ શ્રેણી",
+        "assetManagement": "સંપત્તિ વ્યવસ્થાપન",
+        "assets": "સંપત્તિઓ",
+        "serialNumber": "અનુક્રમ નંબર"
+    }
+}

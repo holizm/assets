@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "ആസ്തി",
+        "condition": "അവസ്ഥ",
+        "acquisitionCost": "ഏറ്റെടുക്കൽ ചെലവ്",
+        "acquisitionDate": "ഏറ്റെടുത്ത തീയതി",
+        "assetCategories": "ആസ്തി വിഭാഗങ്ങൾ",
+        "assetCategory": "ആസ്തി വിഭാഗം",
+        "assetManagement": "ആസ്തി പരിപാലനം",
+        "assets": "ആസ്തികൾ",
+        "serialNumber": "സീരിയൽ നമ്പർ"
+    }
+}

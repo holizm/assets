@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "ఆస్తి",
+        "condition": "స్థితి",
+        "acquisitionCost": "కొనుగోలు వ్యయం",
+        "acquisitionDate": "కొనుగోలు తేదీ",
+        "assetCategories": "ఆస్తి వర్గాలు",
+        "assetCategory": "ఆస్తి వర్గం",
+        "assetManagement": "ఆస్తి నిర్వహణ",
+        "assets": "ఆస్తులు",
+        "serialNumber": "క్రమ సంఖ్య"
+    }
+}

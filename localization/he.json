@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "נכס",
+        "condition": "מצב",
+        "acquisitionCost": "עלות רכישה",
+        "acquisitionDate": "תאריך רכישה",
+        "assetCategories": "קטגוריות נכסים",
+        "assetCategory": "קטגוריית נכס",
+        "assetManagement": "ניהול נכסים",
+        "assets": "נכסים",
+        "serialNumber": "מספר סידורי"
+    }
+}

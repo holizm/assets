@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Imovina",
+        "condition": "Stanje",
+        "acquisitionCost": "Trošak nabave",
+        "acquisitionDate": "Datum nabave",
+        "assetCategories": "Kategorije imovine",
+        "assetCategory": "Kategorija imovine",
+        "assetManagement": "Upravljanje imovinom",
+        "assets": "Imovina",
+        "serialNumber": "Serijski broj"
+    }
+}

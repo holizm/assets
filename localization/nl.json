@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Bedrijfsmiddel",
+        "condition": "Staat",
+        "acquisitionCost": "Aanschafkosten",
+        "acquisitionDate": "Aanschafdatum",
+        "assetCategories": "Categorieën bedrijfsmiddelen",
+        "assetCategory": "Categorie bedrijfsmiddel",
+        "assetManagement": "Activabeheer",
+        "assets": "Bedrijfsmiddelen",
+        "serialNumber": "Serienummer"
+    }
+}

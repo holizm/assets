@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "Majetek",
+        "condition": "Stav",
+        "acquisitionCost": "Pořizovací cena",
+        "acquisitionDate": "Datum pořízení",
+        "assetCategories": "Kategorie majetku",
+        "assetCategory": "Kategorie majetku",
+        "assetManagement": "Správa majetku",
+        "assets": "Majetek",
+        "serialNumber": "Sériové číslo"
+    }
+}

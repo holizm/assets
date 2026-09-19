@@ -1,0 +1,13 @@
+{
+    "common": {
+        "asset": "자산",
+        "condition": "상태",
+        "acquisitionCost": "취득 원가",
+        "acquisitionDate": "취득일",
+        "assetCategories": "자산 범주",
+        "assetCategory": "자산 범주",
+        "assetManagement": "자산 관리",
+        "assets": "자산",
+        "serialNumber": "일련번호"
+    }
+}
