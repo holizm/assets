@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Asset",
-        "condition": "Condition",
         "acquisitionCost": "Acquisition cost",
         "acquisitionDate": "Acquisition date",
+        "asset": "Asset",
+        "assetAssignment": "Asset assignment",
+        "assetAssignments": "Asset assignments",
         "assetCategories": "Asset categories",
         "assetCategory": "Asset category",
+        "assetCondition": "Asset condition",
+        "assetConditions": "Asset conditions",
+        "assetDepreciation": "Asset depreciation",
+        "assetDepreciationMethod": "Asset depreciation method",
+        "assetDepreciationMethods": "Asset depreciation methods",
+        "assetDepreciations": "Asset depreciations",
+        "assetDisposal": "Asset disposal",
+        "assetDisposals": "Asset disposals",
         "assetManagement": "Asset management",
+        "assetStatus": "Asset status",
+        "assetStatuses": "Asset statuses",
         "assets": "Assets",
+        "condition": "Condition",
         "serialNumber": "Serial number"
     }
 }

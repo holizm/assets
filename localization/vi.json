@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Tài sản",
-        "condition": "Tình trạng",
         "acquisitionCost": "Chi phí mua",
         "acquisitionDate": "Ngày mua",
+        "asset": "Tài sản",
+        "assetAssignment": "Phân bổ tài sản",
+        "assetAssignments": "Các phân bổ tài sản",
         "assetCategories": "Danh mục tài sản",
         "assetCategory": "Danh mục tài sản",
+        "assetCondition": "Tình trạng vật lý của tài sản",
+        "assetConditions": "Các tình trạng vật lý của tài sản",
+        "assetDepreciation": "Khấu hao tài sản",
+        "assetDepreciationMethod": "Phương pháp khấu hao tài sản",
+        "assetDepreciationMethods": "Các phương pháp khấu hao tài sản",
+        "assetDepreciations": "Các khoản khấu hao tài sản",
+        "assetDisposal": "Thanh lý tài sản",
+        "assetDisposals": "Các đợt thanh lý tài sản",
         "assetManagement": "Quản lý tài sản",
+        "assetStatus": "Trạng thái tài sản",
+        "assetStatuses": "Các trạng thái tài sản",
         "assets": "Tài sản",
+        "condition": "Tình trạng",
         "serialNumber": "Số sê-ri"
     }
 }

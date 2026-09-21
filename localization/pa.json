@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "ਸੰਪਤੀ",
-        "condition": "ਹਾਲਤ",
         "acquisitionCost": "ਪ੍ਰਾਪਤੀ ਲਾਗਤ",
         "acquisitionDate": "ਪ੍ਰਾਪਤੀ ਮਿਤੀ",
+        "asset": "ਸੰਪਤੀ",
+        "assetAssignment": "ਸੰਪਤੀ ਦੀ ਵੰਡ",
+        "assetAssignments": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਵੰਡਾਂ",
         "assetCategories": "ਸੰਪਤੀ ਸ਼੍ਰੇਣੀਆਂ",
         "assetCategory": "ਸੰਪਤੀ ਸ਼੍ਰੇਣੀ",
+        "assetCondition": "ਸੰਪਤੀ ਦੀ ਭੌਤਿਕ ਹਾਲਤ",
+        "assetConditions": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਭੌਤਿਕ ਹਾਲਤਾਂ",
+        "assetDepreciation": "ਸੰਪਤੀ ਦਾ ਮੁੱਲ ਘਟਾਓ",
+        "assetDepreciationMethod": "ਸੰਪਤੀ ਦਾ ਮੁੱਲ ਘਟਾਉਣ ਦਾ ਢੰਗ",
+        "assetDepreciationMethods": "ਸੰਪਤੀ ਦਾ ਮੁੱਲ ਘਟਾਉਣ ਦੇ ਢੰਗ",
+        "assetDepreciations": "ਸੰਪਤੀਆਂ ਦੇ ਮੁੱਲ ਘਟਾਓ",
+        "assetDisposal": "ਸੰਪਤੀ ਦਾ ਨਿਪਟਾਰਾ",
+        "assetDisposals": "ਸੰਪਤੀਆਂ ਦੇ ਨਿਪਟਾਰੇ",
         "assetManagement": "ਸੰਪਤੀ ਪ੍ਰਬੰਧਨ",
+        "assetStatus": "ਸੰਪਤੀ ਦੀ ਸਥਿਤੀ",
+        "assetStatuses": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਸਥਿਤੀਆਂ",
         "assets": "ਸੰਪਤੀਆਂ",
+        "condition": "ਹਾਲਤ",
         "serialNumber": "ਲੜੀ ਨੰਬਰ"
     }
 }

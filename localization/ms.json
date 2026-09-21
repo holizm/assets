@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Aset",
-        "condition": "Keadaan",
         "acquisitionCost": "Kos pemerolehan",
         "acquisitionDate": "Tarikh pemerolehan",
+        "asset": "Aset",
+        "assetAssignment": "Penyerahan aset",
+        "assetAssignments": "Penyerahan aset",
         "assetCategories": "Kategori aset",
         "assetCategory": "Kategori aset",
+        "assetCondition": "Keadaan aset",
+        "assetConditions": "Keadaan aset",
+        "assetDepreciation": "Susut nilai aset",
+        "assetDepreciationMethod": "Kaedah susut nilai aset",
+        "assetDepreciationMethods": "Kaedah susut nilai aset",
+        "assetDepreciations": "Susut nilai aset",
+        "assetDisposal": "Pelupusan aset",
+        "assetDisposals": "Pelupusan aset",
         "assetManagement": "Pengurusan aset",
+        "assetStatus": "Status aset",
+        "assetStatuses": "Status aset",
         "assets": "Aset",
+        "condition": "Keadaan",
         "serialNumber": "Nombor siri"
     }
 }

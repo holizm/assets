@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "परिसंपत्ति",
-        "condition": "स्थिति",
         "acquisitionCost": "अधिग्रहण लागत",
         "acquisitionDate": "अधिग्रहण तिथि",
+        "asset": "परिसंपत्ति",
+        "assetAssignment": "परिसंपत्ति आवंटन",
+        "assetAssignments": "परिसंपत्ति आवंटन",
         "assetCategories": "परिसंपत्ति श्रेणियाँ",
         "assetCategory": "परिसंपत्ति श्रेणी",
+        "assetCondition": "परिसंपत्ति की भौतिक दशा",
+        "assetConditions": "परिसंपत्तियों की भौतिक दशाएँ",
+        "assetDepreciation": "परिसंपत्ति मूल्यह्रास",
+        "assetDepreciationMethod": "परिसंपत्ति मूल्यह्रास विधि",
+        "assetDepreciationMethods": "परिसंपत्ति मूल्यह्रास विधियाँ",
+        "assetDepreciations": "परिसंपत्ति मूल्यह्रास",
+        "assetDisposal": "परिसंपत्ति निपटान",
+        "assetDisposals": "परिसंपत्ति निपटान",
         "assetManagement": "परिसंपत्ति प्रबंधन",
+        "assetStatus": "परिसंपत्ति की स्थिति",
+        "assetStatuses": "परिसंपत्तियों की स्थितियाँ",
         "assets": "परिसंपत्तियाँ",
+        "condition": "स्थिति",
         "serialNumber": "क्रमांक"
     }
 }

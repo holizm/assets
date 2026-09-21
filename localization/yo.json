@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Ohun ìní",
-        "condition": "Ipò",
         "acquisitionCost": "Ìnáwó rírà",
         "acquisitionDate": "Ọjọ́ rírà",
+        "asset": "Ohun ìní",
+        "assetAssignment": "Pípín ohun ìní",
+        "assetAssignments": "Àwọn ìpín ohun ìní",
         "assetCategories": "Àwọn ẹ̀ka ohun ìní",
         "assetCategory": "Ẹ̀ka ohun ìní",
+        "assetCondition": "Ipò ara ohun ìní",
+        "assetConditions": "Àwọn ipò ara ohun ìní",
+        "assetDepreciation": "Ìdínkù iye ohun ìní",
+        "assetDepreciationMethod": "Ọ̀nà ìṣirò ìdínkù iye ohun ìní",
+        "assetDepreciationMethods": "Àwọn ọ̀nà ìṣirò ìdínkù iye ohun ìní",
+        "assetDepreciations": "Àwọn ìdínkù iye ohun ìní",
+        "assetDisposal": "Yíyọ ohun ìní kúrò",
+        "assetDisposals": "Àwọn ìyọkúrò ohun ìní",
         "assetManagement": "Ìṣàkóso ohun ìní",
+        "assetStatus": "Ipò ohun ìní",
+        "assetStatuses": "Àwọn ipò ohun ìní",
         "assets": "Àwọn ohun ìní",
+        "condition": "Ipò",
         "serialNumber": "Nọ́mbà tẹ̀lé-tẹ̀lé"
     }
 }

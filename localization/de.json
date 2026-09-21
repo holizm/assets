@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Anlagegut",
-        "condition": "Zustand",
         "acquisitionCost": "Anschaffungskosten",
         "acquisitionDate": "Anschaffungsdatum",
+        "asset": "Anlagegut",
+        "assetAssignment": "Anlagenzuweisung",
+        "assetAssignments": "Anlagenzuweisungen",
         "assetCategories": "Anlagekategorien",
         "assetCategory": "Anlagekategorie",
+        "assetCondition": "Anlagenzustand",
+        "assetConditions": "Anlagenzustände",
+        "assetDepreciation": "Anlagenabschreibung",
+        "assetDepreciationMethod": "Anlagenabschreibungsmethode",
+        "assetDepreciationMethods": "Anlagenabschreibungsmethoden",
+        "assetDepreciations": "Anlagenabschreibungen",
+        "assetDisposal": "Anlagenabgang",
+        "assetDisposals": "Anlagenabgänge",
         "assetManagement": "Anlagenverwaltung",
+        "assetStatus": "Anlagenstatus",
+        "assetStatuses": "Anlagenstatus",
         "assets": "Anlagegüter",
+        "condition": "Zustand",
         "serialNumber": "Seriennummer"
     }
 }

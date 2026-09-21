@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "ആസ്തി",
-        "condition": "അവസ്ഥ",
         "acquisitionCost": "ഏറ്റെടുക്കൽ ചെലവ്",
         "acquisitionDate": "ഏറ്റെടുത്ത തീയതി",
+        "asset": "ആസ്തി",
+        "assetAssignment": "ആസ്തി അനുവദിക്കൽ",
+        "assetAssignments": "ആസ്തി അനുവദിക്കലുകൾ",
         "assetCategories": "ആസ്തി വിഭാഗങ്ങൾ",
         "assetCategory": "ആസ്തി വിഭാഗം",
+        "assetCondition": "ആസ്തിയുടെ ഭൗതിക അവസ്ഥ",
+        "assetConditions": "ആസ്തികളുടെ ഭൗതിക അവസ്ഥകൾ",
+        "assetDepreciation": "ആസ്തിയുടെ മൂല്യത്തകർച്ച",
+        "assetDepreciationMethod": "ആസ്തിയുടെ മൂല്യത്തകർച്ചാ രീതി",
+        "assetDepreciationMethods": "ആസ്തിയുടെ മൂല്യത്തകർച്ചാ രീതികൾ",
+        "assetDepreciations": "ആസ്തികളുടെ മൂല്യത്തകർച്ചകൾ",
+        "assetDisposal": "ആസ്തി ഒഴിവാക്കൽ",
+        "assetDisposals": "ആസ്തി ഒഴിവാക്കലുകൾ",
         "assetManagement": "ആസ്തി പരിപാലനം",
+        "assetStatus": "ആസ്തിയുടെ നില",
+        "assetStatuses": "ആസ്തികളുടെ നിലകൾ",
         "assets": "ആസ്തികൾ",
+        "condition": "അവസ്ഥ",
         "serialNumber": "സീരിയൽ നമ്പർ"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Kadara",
-        "condition": "Yanayi",
         "acquisitionCost": "Kudin saye",
         "acquisitionDate": "Ranar saye",
+        "asset": "Kadara",
+        "assetAssignment": "Rabon kadara",
+        "assetAssignments": "Rabukan kadarori",
         "assetCategories": "Rukunin kadarori",
         "assetCategory": "Rukunin kadara",
+        "assetCondition": "Yanayin jikin kadara",
+        "assetConditions": "Yanayin jikin kadarori",
+        "assetDepreciation": "Raguwar darajar kadara",
+        "assetDepreciationMethod": "Hanyar rage darajar kadara",
+        "assetDepreciationMethods": "Hanyoyin rage darajar kadarori",
+        "assetDepreciations": "Raguwar darajar kadarori",
+        "assetDisposal": "Zubar da kadara",
+        "assetDisposals": "Zubar da kadarori",
         "assetManagement": "Gudanar da kadarori",
+        "assetStatus": "Matsayin kadara",
+        "assetStatuses": "Matsayen kadarori",
         "assets": "Kadarori",
+        "condition": "Yanayi",
         "serialNumber": "Lambar jeri"
     }
 }

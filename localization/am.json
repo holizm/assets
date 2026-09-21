@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "ንብረት",
-        "condition": "ሁኔታ",
         "acquisitionCost": "የግዢ ወጪ",
         "acquisitionDate": "የግዢ ቀን",
+        "asset": "ንብረት",
+        "assetAssignment": "የንብረት ምደባ",
+        "assetAssignments": "የንብረት ምደባዎች",
         "assetCategories": "የንብረት ምድቦች",
         "assetCategory": "የንብረት ምድብ",
+        "assetCondition": "የንብረት አካላዊ ሁኔታ",
+        "assetConditions": "የንብረቶች አካላዊ ሁኔታዎች",
+        "assetDepreciation": "የንብረት እርጅና",
+        "assetDepreciationMethod": "የንብረት እርጅና ዘዴ",
+        "assetDepreciationMethods": "የንብረት እርጅና ዘዴዎች",
+        "assetDepreciations": "የንብረቶች እርጅና",
+        "assetDisposal": "የንብረት ማስወገድ",
+        "assetDisposals": "የንብረቶች ማስወገድ",
         "assetManagement": "የንብረት አስተዳደር",
+        "assetStatus": "የንብረት ሁኔታ",
+        "assetStatuses": "የንብረት ሁኔታዎች",
         "assets": "ንብረቶች",
+        "condition": "ሁኔታ",
         "serialNumber": "ተከታታይ ቁጥር"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "자산",
-        "condition": "상태",
         "acquisitionCost": "취득 원가",
         "acquisitionDate": "취득일",
+        "asset": "자산",
+        "assetAssignment": "자산 배정",
+        "assetAssignments": "자산 배정",
         "assetCategories": "자산 범주",
         "assetCategory": "자산 범주",
+        "assetCondition": "자산의 물리적 상태",
+        "assetConditions": "자산의 물리적 상태",
+        "assetDepreciation": "자산 감가상각",
+        "assetDepreciationMethod": "자산 감가상각 방법",
+        "assetDepreciationMethods": "자산 감가상각 방법",
+        "assetDepreciations": "자산 감가상각",
+        "assetDisposal": "자산 처분",
+        "assetDisposals": "자산 처분",
         "assetManagement": "자산 관리",
+        "assetStatus": "자산 상태",
+        "assetStatuses": "자산 상태",
         "assets": "자산",
+        "condition": "상태",
         "serialNumber": "일련번호"
     }
 }

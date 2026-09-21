@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Raslimali",
-        "condition": "Hali",
         "acquisitionCost": "Gharama ya ununuzi",
         "acquisitionDate": "Tarehe ya ununuzi",
+        "asset": "Raslimali",
+        "assetAssignment": "Ugawaji wa mali",
+        "assetAssignments": "Ugawaji wa mali",
         "assetCategories": "Aina za raslimali",
         "assetCategory": "Aina ya raslimali",
+        "assetCondition": "Hali ya kimwili ya mali",
+        "assetConditions": "Hali za kimwili za mali",
+        "assetDepreciation": "Uchakavu wa mali",
+        "assetDepreciationMethod": "Mbinu ya uchakavu wa mali",
+        "assetDepreciationMethods": "Mbinu za uchakavu wa mali",
+        "assetDepreciations": "Uchakavu wa mali",
+        "assetDisposal": "Uondoaji wa mali",
+        "assetDisposals": "Uondoaji wa mali",
         "assetManagement": "Usimamizi wa raslimali",
+        "assetStatus": "Hali ya mali",
+        "assetStatuses": "Hali za mali",
         "assets": "Raslimali",
+        "condition": "Hali",
         "serialNumber": "Nambari tambulishi"
     }
 }

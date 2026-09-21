@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Bate",
-        "condition": "Toestand",
         "acquisitionCost": "Verkrygingskoste",
         "acquisitionDate": "Verkrygingsdatum",
+        "asset": "Bate",
+        "assetAssignment": "Batetoewysing",
+        "assetAssignments": "Batetoewysings",
         "assetCategories": "Batekategorieë",
         "assetCategory": "Batekategorie",
+        "assetCondition": "Batetoestand",
+        "assetConditions": "Batetoestande",
+        "assetDepreciation": "Batewaardevermindering",
+        "assetDepreciationMethod": "Batewaardeverminderingsmetode",
+        "assetDepreciationMethods": "Batewaardeverminderingsmetodes",
+        "assetDepreciations": "Batewaardeverminderings",
+        "assetDisposal": "Batevervreemding",
+        "assetDisposals": "Batevervreemdings",
         "assetManagement": "Batebestuur",
+        "assetStatus": "Batestatus",
+        "assetStatuses": "Batestatusse",
         "assets": "Bates",
+        "condition": "Toestand",
         "serialNumber": "Reeksnommer"
     }
 }

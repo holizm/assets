@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "دارایی",
-        "condition": "وضعیت فیزیکی",
         "acquisitionCost": "هزینه خرید",
         "acquisitionDate": "تاریخ خرید",
+        "asset": "دارایی",
+        "assetAssignment": "تخصیص دارایی",
+        "assetAssignments": "تخصیص‌های دارایی",
         "assetCategories": "دسته‌های دارایی",
         "assetCategory": "دسته دارایی",
+        "assetCondition": "وضعیت فیزیکی دارایی",
+        "assetConditions": "وضعیت‌های فیزیکی دارایی",
+        "assetDepreciation": "استهلاک دارایی",
+        "assetDepreciationMethod": "روش استهلاک دارایی",
+        "assetDepreciationMethods": "روش‌های استهلاک دارایی",
+        "assetDepreciations": "استهلاک‌های دارایی",
+        "assetDisposal": "واگذاری دارایی",
+        "assetDisposals": "واگذاری‌های دارایی",
         "assetManagement": "مدیریت دارایی‌ها",
+        "assetStatus": "وضعیت دارایی",
+        "assetStatuses": "وضعیت‌های دارایی",
         "assets": "دارایی‌ها",
+        "condition": "وضعیت فیزیکی",
         "serialNumber": "شماره سریال"
     }
 }

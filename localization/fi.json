@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Käyttöomaisuus",
-        "condition": "Kunto",
         "acquisitionCost": "Hankintameno",
         "acquisitionDate": "Hankintapäivä",
+        "asset": "Käyttöomaisuus",
+        "assetAssignment": "Omaisuuserän kohdistus",
+        "assetAssignments": "Omaisuuserien kohdistukset",
         "assetCategories": "Omaisuusluokat",
         "assetCategory": "Omaisuusluokka",
+        "assetCondition": "Omaisuuserän kunto",
+        "assetConditions": "Omaisuuserien kunnot",
+        "assetDepreciation": "Omaisuuserän poisto",
+        "assetDepreciationMethod": "Omaisuuserän poistomenetelmä",
+        "assetDepreciationMethods": "Omaisuuserien poistomenetelmät",
+        "assetDepreciations": "Omaisuuserien poistot",
+        "assetDisposal": "Omaisuuserän luovutus",
+        "assetDisposals": "Omaisuuserien luovutukset",
         "assetManagement": "Omaisuudenhallinta",
+        "assetStatus": "Omaisuuserän tila",
+        "assetStatuses": "Omaisuuserien tilat",
         "assets": "Omaisuus",
+        "condition": "Kunto",
         "serialNumber": "Sarjanumero"
     }
 }

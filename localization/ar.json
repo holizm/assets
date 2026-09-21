@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "أصل",
-        "condition": "الحالة",
         "acquisitionCost": "تكلفة الاقتناء",
         "acquisitionDate": "تاريخ الاقتناء",
+        "asset": "أصل",
+        "assetAssignment": "تخصيص الأصل",
+        "assetAssignments": "تخصيصات الأصول",
         "assetCategories": "فئات الأصول",
         "assetCategory": "فئة الأصل",
+        "assetCondition": "حالة الأصل المادية",
+        "assetConditions": "حالات الأصول المادية",
+        "assetDepreciation": "إهلاك الأصل",
+        "assetDepreciationMethod": "طريقة إهلاك الأصل",
+        "assetDepreciationMethods": "طرق إهلاك الأصول",
+        "assetDepreciations": "إهلاكات الأصول",
+        "assetDisposal": "استبعاد الأصل",
+        "assetDisposals": "استبعادات الأصول",
         "assetManagement": "إدارة الأصول",
+        "assetStatus": "حالة الأصل",
+        "assetStatuses": "حالات الأصول",
         "assets": "الأصول",
+        "condition": "الحالة",
         "serialNumber": "الرقم التسلسلي"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Asset",
-        "condition": "Kondisyon",
         "acquisitionCost": "Gastos sa pagkuha",
         "acquisitionDate": "Petsa ng pagkuha",
+        "asset": "Asset",
+        "assetAssignment": "Pagtatalaga ng ari-arian",
+        "assetAssignments": "Mga pagtatalaga ng ari-arian",
         "assetCategories": "Mga kategorya ng asset",
         "assetCategory": "Kategorya ng asset",
+        "assetCondition": "Pisikal na kondisyon ng ari-arian",
+        "assetConditions": "Mga pisikal na kondisyon ng ari-arian",
+        "assetDepreciation": "Depresasyon ng ari-arian",
+        "assetDepreciationMethod": "Paraan ng depresasyon ng ari-arian",
+        "assetDepreciationMethods": "Mga paraan ng depresasyon ng ari-arian",
+        "assetDepreciations": "Mga depresasyon ng ari-arian",
+        "assetDisposal": "Pagtatapon ng ari-arian",
+        "assetDisposals": "Mga pagtatapon ng ari-arian",
         "assetManagement": "Pamamahala ng asset",
+        "assetStatus": "Katayuan ng ari-arian",
+        "assetStatuses": "Mga katayuan ng ari-arian",
         "assets": "Mga asset",
+        "condition": "Kondisyon",
         "serialNumber": "Serial number"
     }
 }

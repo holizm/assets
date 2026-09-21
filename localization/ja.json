@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "資産",
-        "condition": "状態",
         "acquisitionCost": "取得原価",
         "acquisitionDate": "取得日",
+        "asset": "資産",
+        "assetAssignment": "資産割り当て",
+        "assetAssignments": "資産割り当て",
         "assetCategories": "資産カテゴリー",
         "assetCategory": "資産カテゴリー",
+        "assetCondition": "資産の物理的状態",
+        "assetConditions": "資産の物理的状態",
+        "assetDepreciation": "資産減価償却",
+        "assetDepreciationMethod": "資産減価償却方法",
+        "assetDepreciationMethods": "資産減価償却方法",
+        "assetDepreciations": "資産減価償却",
+        "assetDisposal": "資産処分",
+        "assetDisposals": "資産処分",
         "assetManagement": "資産管理",
+        "assetStatus": "資産ステータス",
+        "assetStatuses": "資産ステータス",
         "assets": "資産",
+        "condition": "状態",
         "serialNumber": "シリアル番号"
     }
 }

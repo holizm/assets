@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Aktiv",
-        "condition": "Tilstand",
         "acquisitionCost": "Anskaffelsespris",
         "acquisitionDate": "Anskaffelsesdato",
+        "asset": "Aktiv",
+        "assetAssignment": "Aktivtildeling",
+        "assetAssignments": "Aktivtildelinger",
         "assetCategories": "Aktivkategorier",
         "assetCategory": "Aktivkategori",
+        "assetCondition": "Aktivets tilstand",
+        "assetConditions": "Aktivernes tilstande",
+        "assetDepreciation": "Aktivafskrivning",
+        "assetDepreciationMethod": "Aktivafskrivningsmetode",
+        "assetDepreciationMethods": "Aktivafskrivningsmetoder",
+        "assetDepreciations": "Aktivafskrivninger",
+        "assetDisposal": "Aktivafgang",
+        "assetDisposals": "Aktivafgange",
         "assetManagement": "Aktivstyring",
+        "assetStatus": "Aktivstatus",
+        "assetStatuses": "Aktivstatusser",
         "assets": "Aktiver",
+        "condition": "Tilstand",
         "serialNumber": "Serienummer"
     }
 }

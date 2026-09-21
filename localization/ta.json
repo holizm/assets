@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "சொத்து",
-        "condition": "நிலை",
         "acquisitionCost": "கையகப்படுத்தல் செலவு",
         "acquisitionDate": "கையகப்படுத்திய தேதி",
+        "asset": "சொத்து",
+        "assetAssignment": "சொத்து ஒதுக்கீடு",
+        "assetAssignments": "சொத்து ஒதுக்கீடுகள்",
         "assetCategories": "சொத்து வகைகள்",
         "assetCategory": "சொத்து வகை",
+        "assetCondition": "சொத்தின் பௌதிக நிலை",
+        "assetConditions": "சொத்துகளின் பௌதிக நிலைகள்",
+        "assetDepreciation": "சொத்தின் தேய்மானம்",
+        "assetDepreciationMethod": "சொத்தின் தேய்மான முறை",
+        "assetDepreciationMethods": "சொத்தின் தேய்மான முறைகள்",
+        "assetDepreciations": "சொத்துகளின் தேய்மானங்கள்",
+        "assetDisposal": "சொத்து அகற்றல்",
+        "assetDisposals": "சொத்து அகற்றல்கள்",
         "assetManagement": "சொத்து மேலாண்மை",
+        "assetStatus": "சொத்தின் நிலை",
+        "assetStatuses": "சொத்துகளின் நிலைகள்",
         "assets": "சொத்துகள்",
+        "condition": "நிலை",
         "serialNumber": "வரிசை எண்"
     }
 }

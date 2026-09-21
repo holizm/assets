@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Aset",
-        "condition": "Kondisi",
         "acquisitionCost": "Biaya perolehan",
         "acquisitionDate": "Tanggal perolehan",
+        "asset": "Aset",
+        "assetAssignment": "Penugasan aset",
+        "assetAssignments": "Penugasan aset",
         "assetCategories": "Kategori aset",
         "assetCategory": "Kategori aset",
+        "assetCondition": "Kondisi aset",
+        "assetConditions": "Kondisi aset",
+        "assetDepreciation": "Penyusutan aset",
+        "assetDepreciationMethod": "Metode penyusutan aset",
+        "assetDepreciationMethods": "Metode penyusutan aset",
+        "assetDepreciations": "Penyusutan aset",
+        "assetDisposal": "Pelepasan aset",
+        "assetDisposals": "Pelepasan aset",
         "assetManagement": "Manajemen aset",
+        "assetStatus": "Status aset",
+        "assetStatuses": "Status aset",
         "assets": "Aset",
+        "condition": "Kondisi",
         "serialNumber": "Nomor seri"
     }
 }

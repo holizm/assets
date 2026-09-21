@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Majetek",
-        "condition": "Stav",
         "acquisitionCost": "Pořizovací cena",
         "acquisitionDate": "Datum pořízení",
+        "asset": "Majetek",
+        "assetAssignment": "Přidělení majetku",
+        "assetAssignments": "Přidělení majetku",
         "assetCategories": "Kategorie majetku",
         "assetCategory": "Kategorie majetku",
+        "assetCondition": "Fyzický stav majetku",
+        "assetConditions": "Fyzické stavy majetku",
+        "assetDepreciation": "Odpis majetku",
+        "assetDepreciationMethod": "Metoda odpisování majetku",
+        "assetDepreciationMethods": "Metody odpisování majetku",
+        "assetDepreciations": "Odpisy majetku",
+        "assetDisposal": "Vyřazení majetku",
+        "assetDisposals": "Vyřazení majetku",
         "assetManagement": "Správa majetku",
+        "assetStatus": "Stav majetku",
+        "assetStatuses": "Stavy majetku",
         "assets": "Majetek",
+        "condition": "Stav",
         "serialNumber": "Sériové číslo"
     }
 }

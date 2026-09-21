@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Varlık",
-        "condition": "Durum",
         "acquisitionCost": "Edinme maliyeti",
         "acquisitionDate": "Edinme tarihi",
+        "asset": "Varlık",
+        "assetAssignment": "Varlık tahsisi",
+        "assetAssignments": "Varlık tahsisleri",
         "assetCategories": "Varlık kategorileri",
         "assetCategory": "Varlık kategorisi",
+        "assetCondition": "Varlığın fiziksel durumu",
+        "assetConditions": "Varlıkların fiziksel durumları",
+        "assetDepreciation": "Varlık amortismanı",
+        "assetDepreciationMethod": "Varlık amortisman yöntemi",
+        "assetDepreciationMethods": "Varlık amortisman yöntemleri",
+        "assetDepreciations": "Varlık amortismanları",
+        "assetDisposal": "Varlık elden çıkarma işlemi",
+        "assetDisposals": "Varlık elden çıkarma işlemleri",
         "assetManagement": "Varlık yönetimi",
+        "assetStatus": "Varlık durumu",
+        "assetStatuses": "Varlık durumları",
         "assets": "Varlıklar",
+        "condition": "Durum",
         "serialNumber": "Seri numarası"
     }
 }

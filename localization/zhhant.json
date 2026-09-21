@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "資產",
-        "condition": "狀況",
         "acquisitionCost": "購置成本",
         "acquisitionDate": "購置日期",
+        "asset": "資產",
+        "assetAssignment": "資產分配",
+        "assetAssignments": "資產分配",
         "assetCategories": "資產類別",
         "assetCategory": "資產類別",
+        "assetCondition": "資產實體狀況",
+        "assetConditions": "資產實體狀況",
+        "assetDepreciation": "資產折舊",
+        "assetDepreciationMethod": "資產折舊方法",
+        "assetDepreciationMethods": "資產折舊方法",
+        "assetDepreciations": "資產折舊",
+        "assetDisposal": "資產處置",
+        "assetDisposals": "資產處置",
         "assetManagement": "資產管理",
+        "assetStatus": "資產狀態",
+        "assetStatuses": "資產狀態",
         "assets": "資產",
+        "condition": "狀況",
         "serialNumber": "序號"
     }
 }

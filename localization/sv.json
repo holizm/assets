@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Tillgång",
-        "condition": "Skick",
         "acquisitionCost": "Anskaffningskostnad",
         "acquisitionDate": "Anskaffningsdatum",
+        "asset": "Tillgång",
+        "assetAssignment": "Tillgångstilldelning",
+        "assetAssignments": "Tillgångstilldelningar",
         "assetCategories": "Tillgångskategorier",
         "assetCategory": "Tillgångskategori",
+        "assetCondition": "Tillgångens skick",
+        "assetConditions": "Tillgångarnas skick",
+        "assetDepreciation": "Tillgångsavskrivning",
+        "assetDepreciationMethod": "Avskrivningsmetod för tillgångar",
+        "assetDepreciationMethods": "Avskrivningsmetoder för tillgångar",
+        "assetDepreciations": "Tillgångsavskrivningar",
+        "assetDisposal": "Avyttring av tillgång",
+        "assetDisposals": "Avyttringar av tillgångar",
         "assetManagement": "Tillgångsförvaltning",
+        "assetStatus": "Tillgångsstatus",
+        "assetStatuses": "Tillgångsstatusar",
         "assets": "Tillgångar",
+        "condition": "Skick",
         "serialNumber": "Serienummer"
     }
 }

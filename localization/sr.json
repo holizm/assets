@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Средство",
-        "condition": "Стање",
         "acquisitionCost": "Набавна вредност",
         "acquisitionDate": "Датум набавке",
+        "asset": "Средство",
+        "assetAssignment": "Додела имовине",
+        "assetAssignments": "Доделе имовине",
         "assetCategories": "Категорије средстава",
         "assetCategory": "Категорија средства",
+        "assetCondition": "Физичко стање имовине",
+        "assetConditions": "Физичка стања имовине",
+        "assetDepreciation": "Амортизација имовине",
+        "assetDepreciationMethod": "Метода амортизације имовине",
+        "assetDepreciationMethods": "Методе амортизације имовине",
+        "assetDepreciations": "Амортизације имовине",
+        "assetDisposal": "Отпис имовине",
+        "assetDisposals": "Отписи имовине",
         "assetManagement": "Управљање средствима",
+        "assetStatus": "Статус имовине",
+        "assetStatuses": "Статуси имовине",
         "assets": "Средства",
+        "condition": "Стање",
         "serialNumber": "Серијски број"
     }
 }

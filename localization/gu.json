@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "સંપત્તિ",
-        "condition": "સ્થિતિ",
         "acquisitionCost": "પ્રાપ્તિ ખર્ચ",
         "acquisitionDate": "પ્રાપ્તિ તારીખ",
+        "asset": "સંપત્તિ",
+        "assetAssignment": "સંપત્તિની ફાળવણી",
+        "assetAssignments": "સંપત્તિની ફાળવણીઓ",
         "assetCategories": "સંપત્તિ શ્રેણીઓ",
         "assetCategory": "સંપત્તિ શ્રેણી",
+        "assetCondition": "સંપત્તિની ભૌતિક સ્થિતિ",
+        "assetConditions": "સંપત્તિઓની ભૌતિક સ્થિતિઓ",
+        "assetDepreciation": "સંપત્તિનો ઘસારો",
+        "assetDepreciationMethod": "સંપત્તિના ઘસારાની પદ્ધતિ",
+        "assetDepreciationMethods": "સંપત્તિના ઘસારાની પદ્ધતિઓ",
+        "assetDepreciations": "સંપત્તિઓનો ઘસારો",
+        "assetDisposal": "સંપત્તિનો નિકાલ",
+        "assetDisposals": "સંપત્તિઓના નિકાલ",
         "assetManagement": "સંપત્તિ વ્યવસ્થાપન",
+        "assetStatus": "સંપત્તિની સ્થિતિ",
+        "assetStatuses": "સંપત્તિઓની સ્થિતિઓ",
         "assets": "સંપત્તિઓ",
+        "condition": "સ્થિતિ",
         "serialNumber": "અનુક્રમ નંબર"
     }
 }

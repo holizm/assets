@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Activ",
-        "condition": "Stare",
         "acquisitionCost": "Cost de achiziție",
         "acquisitionDate": "Data achiziției",
+        "asset": "Activ",
+        "assetAssignment": "Alocare de activ",
+        "assetAssignments": "Alocări de active",
         "assetCategories": "Categorii de active",
         "assetCategory": "Categoria activului",
+        "assetCondition": "Starea fizică a activului",
+        "assetConditions": "Stările fizice ale activelor",
+        "assetDepreciation": "Amortizare de activ",
+        "assetDepreciationMethod": "Metodă de amortizare a activului",
+        "assetDepreciationMethods": "Metode de amortizare a activelor",
+        "assetDepreciations": "Amortizări de active",
+        "assetDisposal": "Scoatere din evidență a activului",
+        "assetDisposals": "Scoateri din evidență ale activelor",
         "assetManagement": "Gestionarea activelor",
+        "assetStatus": "Statutul activului",
+        "assetStatuses": "Statutele activelor",
         "assets": "Active",
+        "condition": "Stare",
         "serialNumber": "Număr de serie"
     }
 }

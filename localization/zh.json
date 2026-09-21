@@ -1,7 +1,5 @@
 {
     "common": {
-        "acquisitionCost": "购置成本",
-        "acquisitionDate": "购置日期",
         "asset": "资产",
         "assetAssignment": "资产分配",
         "assetAssignments": "资产分配",
@@ -15,11 +13,8 @@
         "assetDepreciations": "资产折旧",
         "assetDisposal": "资产处置",
         "assetDisposals": "资产处置",
-        "assetManagement": "资产管理",
         "assetStatus": "资产状态",
         "assetStatuses": "资产状态",
-        "assets": "资产",
-        "condition": "状况",
-        "serialNumber": "序列号"
+        "assets": "资产"
     }
 }

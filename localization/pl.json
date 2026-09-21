@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Składnik majątku",
-        "condition": "Stan",
         "acquisitionCost": "Koszt nabycia",
         "acquisitionDate": "Data nabycia",
+        "asset": "Składnik majątku",
+        "assetAssignment": "Przypisanie środka trwałego",
+        "assetAssignments": "Przypisania środków trwałych",
         "assetCategories": "Kategorie majątku",
         "assetCategory": "Kategoria majątku",
+        "assetCondition": "Stan fizyczny środka trwałego",
+        "assetConditions": "Stany fizyczne środków trwałych",
+        "assetDepreciation": "Amortyzacja środka trwałego",
+        "assetDepreciationMethod": "Metoda amortyzacji środka trwałego",
+        "assetDepreciationMethods": "Metody amortyzacji środków trwałych",
+        "assetDepreciations": "Amortyzacje środków trwałych",
+        "assetDisposal": "Zbycie środka trwałego",
+        "assetDisposals": "Zbycia środków trwałych",
         "assetManagement": "Zarządzanie majątkiem",
+        "assetStatus": "Status środka trwałego",
+        "assetStatuses": "Statusy środków trwałych",
         "assets": "Składniki majątku",
+        "condition": "Stan",
         "serialNumber": "Numer seryjny"
     }
 }

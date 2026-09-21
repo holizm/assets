@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "ఆస్తి",
-        "condition": "స్థితి",
         "acquisitionCost": "కొనుగోలు వ్యయం",
         "acquisitionDate": "కొనుగోలు తేదీ",
+        "asset": "ఆస్తి",
+        "assetAssignment": "ఆస్తి కేటాయింపు",
+        "assetAssignments": "ఆస్తి కేటాయింపులు",
         "assetCategories": "ఆస్తి వర్గాలు",
         "assetCategory": "ఆస్తి వర్గం",
+        "assetCondition": "ఆస్తి భౌతిక స్థితి",
+        "assetConditions": "ఆస్తుల భౌతిక స్థితులు",
+        "assetDepreciation": "ఆస్తి తరుగుదల",
+        "assetDepreciationMethod": "ఆస్తి తరుగుదల పద్ధతి",
+        "assetDepreciationMethods": "ఆస్తి తరుగుదల పద్ధతులు",
+        "assetDepreciations": "ఆస్తుల తరుగుదలలు",
+        "assetDisposal": "ఆస్తి తొలగింపు",
+        "assetDisposals": "ఆస్తి తొలగింపులు",
         "assetManagement": "ఆస్తి నిర్వహణ",
+        "assetStatus": "ఆస్తి స్థితి",
+        "assetStatuses": "ఆస్తి స్థితులు",
         "assets": "ఆస్తులు",
+        "condition": "స్థితి",
         "serialNumber": "క్రమ సంఖ్య"
     }
 }

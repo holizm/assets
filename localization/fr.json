@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Actif",
-        "condition": "État",
         "acquisitionCost": "Coût d’acquisition",
         "acquisitionDate": "Date d’acquisition",
+        "asset": "Actif",
+        "assetAssignment": "Affectation d’actif",
+        "assetAssignments": "Affectations d’actifs",
         "assetCategories": "Catégories d’actifs",
         "assetCategory": "Catégorie d’actif",
+        "assetCondition": "État physique de l’actif",
+        "assetConditions": "États physiques des actifs",
+        "assetDepreciation": "Amortissement d’actif",
+        "assetDepreciationMethod": "Méthode d’amortissement des actifs",
+        "assetDepreciationMethods": "Méthodes d’amortissement des actifs",
+        "assetDepreciations": "Amortissements d’actifs",
+        "assetDisposal": "Sortie d’actif",
+        "assetDisposals": "Sorties d’actifs",
         "assetManagement": "Gestion des actifs",
+        "assetStatus": "Statut de l’actif",
+        "assetStatuses": "Statuts des actifs",
         "assets": "Actifs",
+        "condition": "État",
         "serialNumber": "Numéro de série"
     }
 }

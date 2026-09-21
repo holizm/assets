@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "נכס",
-        "condition": "מצב",
         "acquisitionCost": "עלות רכישה",
         "acquisitionDate": "תאריך רכישה",
+        "asset": "נכס",
+        "assetAssignment": "הקצאת נכס",
+        "assetAssignments": "הקצאות נכסים",
         "assetCategories": "קטגוריות נכסים",
         "assetCategory": "קטגוריית נכס",
+        "assetCondition": "מצב פיזי של נכס",
+        "assetConditions": "מצבים פיזיים של נכסים",
+        "assetDepreciation": "פחת נכס",
+        "assetDepreciationMethod": "שיטת פחת נכס",
+        "assetDepreciationMethods": "שיטות פחת נכסים",
+        "assetDepreciations": "רישומי פחת נכסים",
+        "assetDisposal": "גריעת נכס",
+        "assetDisposals": "גריעות נכסים",
         "assetManagement": "ניהול נכסים",
+        "assetStatus": "סטטוס נכס",
+        "assetStatuses": "סטטוסים של נכסים",
         "assets": "נכסים",
+        "condition": "מצב",
         "serialNumber": "מספר סידורי"
     }
 }

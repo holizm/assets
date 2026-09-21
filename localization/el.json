@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Πάγιο",
-        "condition": "Κατάσταση",
         "acquisitionCost": "Κόστος κτήσης",
         "acquisitionDate": "Ημερομηνία κτήσης",
+        "asset": "Πάγιο",
+        "assetAssignment": "Ανάθεση παγίου",
+        "assetAssignments": "Αναθέσεις παγίων",
         "assetCategories": "Κατηγορίες παγίων",
         "assetCategory": "Κατηγορία παγίου",
+        "assetCondition": "Φυσική κατάσταση παγίου",
+        "assetConditions": "Φυσικές καταστάσεις παγίων",
+        "assetDepreciation": "Απόσβεση παγίου",
+        "assetDepreciationMethod": "Μέθοδος απόσβεσης παγίου",
+        "assetDepreciationMethods": "Μέθοδοι απόσβεσης παγίων",
+        "assetDepreciations": "Αποσβέσεις παγίων",
+        "assetDisposal": "Διάθεση παγίου",
+        "assetDisposals": "Διαθέσεις παγίων",
         "assetManagement": "Διαχείριση παγίων",
+        "assetStatus": "Κατάσταση παγίου",
+        "assetStatuses": "Καταστάσεις παγίων",
         "assets": "Πάγια",
+        "condition": "Κατάσταση",
         "serialNumber": "Σειριακός αριθμός"
     }
 }

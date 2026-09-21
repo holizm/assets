@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Актив",
-        "condition": "Стан",
         "acquisitionCost": "Вартість придбання",
         "acquisitionDate": "Дата придбання",
+        "asset": "Актив",
+        "assetAssignment": "Призначення активу",
+        "assetAssignments": "Призначення активів",
         "assetCategories": "Категорії активів",
         "assetCategory": "Категорія активу",
+        "assetCondition": "Фізичний стан активу",
+        "assetConditions": "Фізичні стани активів",
+        "assetDepreciation": "Амортизація активу",
+        "assetDepreciationMethod": "Метод амортизації активу",
+        "assetDepreciationMethods": "Методи амортизації активів",
+        "assetDepreciations": "Амортизаційні нарахування за активами",
+        "assetDisposal": "Вибуття активу",
+        "assetDisposals": "Вибуття активів",
         "assetManagement": "Управління активами",
+        "assetStatus": "Статус активу",
+        "assetStatuses": "Статуси активів",
         "assets": "Активи",
+        "condition": "Стан",
         "serialNumber": "Серійний номер"
     }
 }

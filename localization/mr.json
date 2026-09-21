@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "मालमत्ता",
-        "condition": "स्थिती",
         "acquisitionCost": "संपादन खर्च",
         "acquisitionDate": "संपादन तारीख",
+        "asset": "मालमत्ता",
+        "assetAssignment": "मालमत्तेचे वाटप",
+        "assetAssignments": "मालमत्तांची वाटपे",
         "assetCategories": "मालमत्ता श्रेणी",
         "assetCategory": "मालमत्ता श्रेणी",
+        "assetCondition": "मालमत्तेची भौतिक अवस्था",
+        "assetConditions": "मालमत्तांच्या भौतिक अवस्था",
+        "assetDepreciation": "मालमत्तेचा घसारा",
+        "assetDepreciationMethod": "मालमत्तेच्या घसाऱ्याची पद्धत",
+        "assetDepreciationMethods": "मालमत्तेच्या घसाऱ्याच्या पद्धती",
+        "assetDepreciations": "मालमत्तांचे घसारे",
+        "assetDisposal": "मालमत्तेची विल्हेवाट",
+        "assetDisposals": "मालमत्तांच्या विल्हेवाटी",
         "assetManagement": "मालमत्ता व्यवस्थापन",
+        "assetStatus": "मालमत्तेची स्थिती",
+        "assetStatuses": "मालमत्तांच्या स्थिती",
         "assets": "मालमत्ता",
+        "condition": "स्थिती",
         "serialNumber": "अनुक्रमांक"
     }
 }

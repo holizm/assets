@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Bedrijfsmiddel",
-        "condition": "Staat",
         "acquisitionCost": "Aanschafkosten",
         "acquisitionDate": "Aanschafdatum",
+        "asset": "Bedrijfsmiddel",
+        "assetAssignment": "Activatoewijzing",
+        "assetAssignments": "Activatoewijzingen",
         "assetCategories": "Categorieën bedrijfsmiddelen",
         "assetCategory": "Categorie bedrijfsmiddel",
+        "assetCondition": "Conditie van het activum",
+        "assetConditions": "Condities van activa",
+        "assetDepreciation": "Afschrijving van het activum",
+        "assetDepreciationMethod": "Afschrijvingsmethode voor activa",
+        "assetDepreciationMethods": "Afschrijvingsmethoden voor activa",
+        "assetDepreciations": "Afschrijvingen van activa",
+        "assetDisposal": "Afstoting van het activum",
+        "assetDisposals": "Afstotingen van activa",
         "assetManagement": "Activabeheer",
+        "assetStatus": "Activastatus",
+        "assetStatuses": "Activastatussen",
         "assets": "Bedrijfsmiddelen",
+        "condition": "Staat",
         "serialNumber": "Serienummer"
     }
 }

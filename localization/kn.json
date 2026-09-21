@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "ಆಸ್ತಿ",
-        "condition": "ಸ್ಥಿತಿ",
         "acquisitionCost": "ಸ್ವಾಧೀನ ವೆಚ್ಚ",
         "acquisitionDate": "ಸ್ವಾಧೀನ ದಿನಾಂಕ",
+        "asset": "ಆಸ್ತಿ",
+        "assetAssignment": "ಆಸ್ತಿ ಹಂಚಿಕೆ",
+        "assetAssignments": "ಆಸ್ತಿ ಹಂಚಿಕೆಗಳು",
         "assetCategories": "ಆಸ್ತಿ ವರ್ಗಗಳು",
         "assetCategory": "ಆಸ್ತಿ ವರ್ಗ",
+        "assetCondition": "ಆಸ್ತಿಯ ಭೌತಿಕ ಸ್ಥಿತಿ",
+        "assetConditions": "ಆಸ್ತಿಗಳ ಭೌತಿಕ ಸ್ಥಿತಿಗಳು",
+        "assetDepreciation": "ಆಸ್ತಿ ಸವಕಳಿ",
+        "assetDepreciationMethod": "ಆಸ್ತಿ ಸವಕಳಿ ವಿಧಾನ",
+        "assetDepreciationMethods": "ಆಸ್ತಿ ಸವಕಳಿ ವಿಧಾನಗಳು",
+        "assetDepreciations": "ಆಸ್ತಿ ಸವಕಳಿಗಳು",
+        "assetDisposal": "ಆಸ್ತಿ ವಿಲೇವಾರಿ",
+        "assetDisposals": "ಆಸ್ತಿ ವಿಲೇವಾರಿಗಳು",
         "assetManagement": "ಆಸ್ತಿ ನಿರ್ವಹಣೆ",
+        "assetStatus": "ಆಸ್ತಿ ಸ್ಥಿತಿ",
+        "assetStatuses": "ಆಸ್ತಿ ಸ್ಥಿತಿಗಳು",
         "assets": "ಆಸ್ತಿಗಳು",
+        "condition": "ಸ್ಥಿತಿ",
         "serialNumber": "ಕ್ರಮ ಸಂಖ್ಯೆ"
     }
 }

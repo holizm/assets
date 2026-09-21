@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "اثاثہ",
-        "condition": "حالت",
         "acquisitionCost": "حصول کی لاگت",
         "acquisitionDate": "حصول کی تاریخ",
+        "asset": "اثاثہ",
+        "assetAssignment": "اثاثے کی تخصیص",
+        "assetAssignments": "اثاثوں کی تخصیصات",
         "assetCategories": "اثاثوں کے زمرے",
         "assetCategory": "اثاثے کا زمرہ",
+        "assetCondition": "اثاثے کی طبعی حالت",
+        "assetConditions": "اثاثوں کی طبعی حالتیں",
+        "assetDepreciation": "اثاثے کی فرسودگی",
+        "assetDepreciationMethod": "اثاثے کی فرسودگی کا طریقہ",
+        "assetDepreciationMethods": "اثاثوں کی فرسودگی کے طریقے",
+        "assetDepreciations": "اثاثوں کی فرسودگیاں",
+        "assetDisposal": "اثاثے کا تصرف",
+        "assetDisposals": "اثاثوں کے تصرفات",
         "assetManagement": "اثاثہ جات کا انتظام",
+        "assetStatus": "اثاثے کی حیثیت",
+        "assetStatuses": "اثاثوں کی حیثیتیں",
         "assets": "اثاثے",
+        "condition": "حالت",
         "serialNumber": "سیریل نمبر"
     }
 }

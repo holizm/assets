@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Eiendel",
-        "condition": "Tilstand",
         "acquisitionCost": "Anskaffelseskost",
         "acquisitionDate": "Anskaffelsesdato",
+        "asset": "Eiendel",
+        "assetAssignment": "Eiendelstildeling",
+        "assetAssignments": "Eiendelstildelinger",
         "assetCategories": "Eiendelskategorier",
         "assetCategory": "Eiendelskategori",
+        "assetCondition": "Eiendelens tilstand",
+        "assetConditions": "Eiendelenes tilstander",
+        "assetDepreciation": "Avskrivning av eiendel",
+        "assetDepreciationMethod": "Avskrivningsmetode for eiendel",
+        "assetDepreciationMethods": "Avskrivningsmetoder for eiendeler",
+        "assetDepreciations": "Avskrivninger av eiendeler",
+        "assetDisposal": "Avhending av eiendel",
+        "assetDisposals": "Avhendinger av eiendeler",
         "assetManagement": "Eiendelsforvaltning",
+        "assetStatus": "Eiendelsstatus",
+        "assetStatuses": "Eiendelsstatuser",
         "assets": "Eiendeler",
+        "condition": "Tilstand",
         "serialNumber": "Serienummer"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Imovina",
-        "condition": "Stanje",
         "acquisitionCost": "Trošak nabave",
         "acquisitionDate": "Datum nabave",
+        "asset": "Imovina",
+        "assetAssignment": "Dodjela imovine",
+        "assetAssignments": "Dodjele imovine",
         "assetCategories": "Kategorije imovine",
         "assetCategory": "Kategorija imovine",
+        "assetCondition": "Fizičko stanje imovine",
+        "assetConditions": "Fizička stanja imovine",
+        "assetDepreciation": "Amortizacija imovine",
+        "assetDepreciationMethod": "Metoda amortizacije imovine",
+        "assetDepreciationMethods": "Metode amortizacije imovine",
+        "assetDepreciations": "Amortizacije imovine",
+        "assetDisposal": "Otpis imovine",
+        "assetDisposals": "Otpisi imovine",
         "assetManagement": "Upravljanje imovinom",
+        "assetStatus": "Status imovine",
+        "assetStatuses": "Statusi imovine",
         "assets": "Imovina",
+        "condition": "Stanje",
         "serialNumber": "Serijski broj"
     }
 }

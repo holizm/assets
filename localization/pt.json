@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Ativo",
-        "condition": "Condição",
         "acquisitionCost": "Custo de aquisição",
         "acquisitionDate": "Data de aquisição",
+        "asset": "Ativo",
+        "assetAssignment": "Atribuição de ativo",
+        "assetAssignments": "Atribuições de ativos",
         "assetCategories": "Categorias de ativos",
         "assetCategory": "Categoria de ativo",
+        "assetCondition": "Condição do ativo",
+        "assetConditions": "Condições dos ativos",
+        "assetDepreciation": "Depreciação de ativo",
+        "assetDepreciationMethod": "Método de depreciação de ativos",
+        "assetDepreciationMethods": "Métodos de depreciação de ativos",
+        "assetDepreciations": "Depreciações de ativos",
+        "assetDisposal": "Abate de ativo",
+        "assetDisposals": "Abates de ativos",
         "assetManagement": "Gestão de ativos",
+        "assetStatus": "Estado do ativo",
+        "assetStatuses": "Estados dos ativos",
         "assets": "Ativos",
+        "condition": "Condição",
         "serialNumber": "Número de série"
     }
 }

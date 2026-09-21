@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "সম্পদ",
-        "condition": "অবস্থা",
         "acquisitionCost": "অধিগ্রহণ ব্যয়",
         "acquisitionDate": "অধিগ্রহণের তারিখ",
+        "asset": "সম্পদ",
+        "assetAssignment": "সম্পদ বরাদ্দ",
+        "assetAssignments": "সম্পদ বরাদ্দসমূহ",
         "assetCategories": "সম্পদের বিভাগসমূহ",
         "assetCategory": "সম্পদের বিভাগ",
+        "assetCondition": "সম্পদের ভৌত অবস্থা",
+        "assetConditions": "সম্পদের ভৌত অবস্থাসমূহ",
+        "assetDepreciation": "সম্পদের অবচয়",
+        "assetDepreciationMethod": "সম্পদের অবচয় পদ্ধতি",
+        "assetDepreciationMethods": "সম্পদের অবচয় পদ্ধতিসমূহ",
+        "assetDepreciations": "সম্পদের অবচয়সমূহ",
+        "assetDisposal": "সম্পদ নিষ্পত্তি",
+        "assetDisposals": "সম্পদ নিষ্পত্তিসমূহ",
         "assetManagement": "সম্পদ ব্যবস্থাপনা",
+        "assetStatus": "সম্পদের স্থিতি",
+        "assetStatuses": "সম্পদের স্থিতিসমূহ",
         "assets": "সম্পদসমূহ",
+        "condition": "অবস্থা",
         "serialNumber": "ক্রমিক নম্বর"
     }
 }

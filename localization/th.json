@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "สินทรัพย์",
-        "condition": "สภาพ",
         "acquisitionCost": "ต้นทุนการได้มา",
         "acquisitionDate": "วันที่ได้มา",
+        "asset": "สินทรัพย์",
+        "assetAssignment": "การจัดสรรสินทรัพย์",
+        "assetAssignments": "การจัดสรรสินทรัพย์",
         "assetCategories": "หมวดหมู่สินทรัพย์",
         "assetCategory": "หมวดหมู่สินทรัพย์",
+        "assetCondition": "สภาพสินทรัพย์",
+        "assetConditions": "สภาพสินทรัพย์",
+        "assetDepreciation": "ค่าเสื่อมราคาสินทรัพย์",
+        "assetDepreciationMethod": "วิธีคิดค่าเสื่อมราคาสินทรัพย์",
+        "assetDepreciationMethods": "วิธีคิดค่าเสื่อมราคาสินทรัพย์",
+        "assetDepreciations": "ค่าเสื่อมราคาสินทรัพย์",
+        "assetDisposal": "การจำหน่ายสินทรัพย์",
+        "assetDisposals": "การจำหน่ายสินทรัพย์",
         "assetManagement": "การจัดการสินทรัพย์",
+        "assetStatus": "สถานะสินทรัพย์",
+        "assetStatuses": "สถานะสินทรัพย์",
         "assets": "สินทรัพย์",
+        "condition": "สภาพ",
         "serialNumber": "หมายเลขประจำเครื่อง"
     }
 }

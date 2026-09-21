@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Актив",
-        "condition": "Състояние",
         "acquisitionCost": "Цена на придобиване",
         "acquisitionDate": "Дата на придобиване",
+        "asset": "Актив",
+        "assetAssignment": "Разпределение на актив",
+        "assetAssignments": "Разпределения на активи",
         "assetCategories": "Категории активи",
         "assetCategory": "Категория актив",
+        "assetCondition": "Физическо състояние на актив",
+        "assetConditions": "Физически състояния на активи",
+        "assetDepreciation": "Амортизация на актив",
+        "assetDepreciationMethod": "Метод на амортизация на актив",
+        "assetDepreciationMethods": "Методи на амортизация на активи",
+        "assetDepreciations": "Амортизации на активи",
+        "assetDisposal": "Отписване на актив",
+        "assetDisposals": "Отписвания на активи",
         "assetManagement": "Управление на активи",
+        "assetStatus": "Статус на актив",
+        "assetStatuses": "Статуси на активи",
         "assets": "Активи",
+        "condition": "Състояние",
         "serialNumber": "Сериен номер"
     }
 }

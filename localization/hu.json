@@ -1,13 +1,25 @@
 {
     "common": {
-        "asset": "Eszköz",
-        "condition": "Állapot",
         "acquisitionCost": "Beszerzési költség",
         "acquisitionDate": "Beszerzés dátuma",
+        "asset": "Eszköz",
+        "assetAssignment": "Eszköz-hozzárendelés",
+        "assetAssignments": "Eszköz-hozzárendelések",
         "assetCategories": "Eszközkategóriák",
         "assetCategory": "Eszközkategória",
+        "assetCondition": "Eszköz fizikai állapota",
+        "assetConditions": "Eszközök fizikai állapotai",
+        "assetDepreciation": "Eszköz értékcsökkenése",
+        "assetDepreciationMethod": "Eszköz értékcsökkenési módszere",
+        "assetDepreciationMethods": "Eszközök értékcsökkenési módszerei",
+        "assetDepreciations": "Eszközök értékcsökkenései",
+        "assetDisposal": "Eszköz kivezetése",
+        "assetDisposals": "Eszközök kivezetései",
         "assetManagement": "Eszközgazdálkodás",
+        "assetStatus": "Eszköz állapota",
+        "assetStatuses": "Eszközök állapotai",
         "assets": "Eszközök",
+        "condition": "Állapot",
         "serialNumber": "Sorozatszám"
     }
 }
