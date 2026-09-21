@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Anskaffelsespris",
         "acquisitionDate": "Anskaffelsesdato",
-        "asset": "Aktiv",
         "assetAssignment": "Aktivtildeling",
         "assetAssignments": "Aktivtildelinger",
         "assetCategories": "Aktivkategorier",
@@ -17,9 +16,6 @@
         "assetDisposals": "Aktivafgange",
         "assetManagement": "Aktivstyring",
         "assetStatus": "Aktivstatus",
-        "assetStatuses": "Aktivstatusser",
-        "assets": "Aktiver",
-        "condition": "Tilstand",
-        "serialNumber": "Serienummer"
+        "assetStatuses": "Aktivstatusser"
     }
 }

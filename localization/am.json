@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "የግዢ ወጪ",
         "acquisitionDate": "የግዢ ቀን",
-        "asset": "ንብረት",
         "assetAssignment": "የንብረት ምደባ",
         "assetAssignments": "የንብረት ምደባዎች",
         "assetCategories": "የንብረት ምድቦች",
@@ -17,9 +16,6 @@
         "assetDisposals": "የንብረቶች ማስወገድ",
         "assetManagement": "የንብረት አስተዳደር",
         "assetStatus": "የንብረት ሁኔታ",
-        "assetStatuses": "የንብረት ሁኔታዎች",
-        "assets": "ንብረቶች",
-        "condition": "ሁኔታ",
-        "serialNumber": "ተከታታይ ቁጥር"
+        "assetStatuses": "የንብረት ሁኔታዎች"
     }
 }

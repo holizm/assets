@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Anschaffungskosten",
         "acquisitionDate": "Anschaffungsdatum",
-        "asset": "Anlagegut",
         "assetAssignment": "Anlagenzuweisung",
         "assetAssignments": "Anlagenzuweisungen",
         "assetCategories": "Anlagekategorien",
@@ -17,9 +16,6 @@
         "assetDisposals": "Anlagenabgänge",
         "assetManagement": "Anlagenverwaltung",
         "assetStatus": "Anlagenstatus",
-        "assetStatuses": "Anlagenstatus",
-        "assets": "Anlagegüter",
-        "condition": "Zustand",
-        "serialNumber": "Seriennummer"
+        "assetStatuses": "Anlagenstatus"
     }
 }

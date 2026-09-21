@@ -21,7 +21,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='assetsSerialNumber'
+        placeholder='coreSerialNumber'
         property='serialNumber'
     />
     <DateTime
@@ -53,7 +53,7 @@ const inputs = <>
             'poor',
             'damaged',
         ]}
-        placeholder='assetsCondition'
+        placeholder='corePhysicalCondition'
         property='assetCondition'
         required
     />

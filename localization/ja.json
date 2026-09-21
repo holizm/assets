@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "取得原価",
         "acquisitionDate": "取得日",
-        "asset": "資産",
         "assetAssignment": "資産割り当て",
         "assetAssignments": "資産割り当て",
         "assetCategories": "資産カテゴリー",
@@ -17,9 +16,6 @@
         "assetDisposals": "資産処分",
         "assetManagement": "資産管理",
         "assetStatus": "資産ステータス",
-        "assetStatuses": "資産ステータス",
-        "assets": "資産",
-        "condition": "状態",
-        "serialNumber": "シリアル番号"
+        "assetStatuses": "資産ステータス"
     }
 }

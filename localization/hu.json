@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Beszerzési költség",
         "acquisitionDate": "Beszerzés dátuma",
-        "asset": "Eszköz",
         "assetAssignment": "Eszköz-hozzárendelés",
         "assetAssignments": "Eszköz-hozzárendelések",
         "assetCategories": "Eszközkategóriák",
@@ -17,9 +16,6 @@
         "assetDisposals": "Eszközök kivezetései",
         "assetManagement": "Eszközgazdálkodás",
         "assetStatus": "Eszköz állapota",
-        "assetStatuses": "Eszközök állapotai",
-        "assets": "Eszközök",
-        "condition": "Állapot",
-        "serialNumber": "Sorozatszám"
+        "assetStatuses": "Eszközök állapotai"
     }
 }

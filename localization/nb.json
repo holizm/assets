@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Anskaffelseskost",
         "acquisitionDate": "Anskaffelsesdato",
-        "asset": "Eiendel",
         "assetAssignment": "Eiendelstildeling",
         "assetAssignments": "Eiendelstildelinger",
         "assetCategories": "Eiendelskategorier",
@@ -17,9 +16,6 @@
         "assetDisposals": "Avhendinger av eiendeler",
         "assetManagement": "Eiendelsforvaltning",
         "assetStatus": "Eiendelsstatus",
-        "assetStatuses": "Eiendelsstatuser",
-        "assets": "Eiendeler",
-        "condition": "Tilstand",
-        "serialNumber": "Serienummer"
+        "assetStatuses": "Eiendelsstatuser"
     }
 }

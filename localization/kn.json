@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "ಸ್ವಾಧೀನ ವೆಚ್ಚ",
         "acquisitionDate": "ಸ್ವಾಧೀನ ದಿನಾಂಕ",
-        "asset": "ಆಸ್ತಿ",
         "assetAssignment": "ಆಸ್ತಿ ಹಂಚಿಕೆ",
         "assetAssignments": "ಆಸ್ತಿ ಹಂಚಿಕೆಗಳು",
         "assetCategories": "ಆಸ್ತಿ ವರ್ಗಗಳು",
@@ -17,9 +16,6 @@
         "assetDisposals": "ಆಸ್ತಿ ವಿಲೇವಾರಿಗಳು",
         "assetManagement": "ಆಸ್ತಿ ನಿರ್ವಹಣೆ",
         "assetStatus": "ಆಸ್ತಿ ಸ್ಥಿತಿ",
-        "assetStatuses": "ಆಸ್ತಿ ಸ್ಥಿತಿಗಳು",
-        "assets": "ಆಸ್ತಿಗಳು",
-        "condition": "ಸ್ಥಿತಿ",
-        "serialNumber": "ಕ್ರಮ ಸಂಖ್ಯೆ"
+        "assetStatuses": "ಆಸ್ತಿ ಸ್ಥಿತಿಗಳು"
     }
 }

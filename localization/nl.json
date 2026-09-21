@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Aanschafkosten",
         "acquisitionDate": "Aanschafdatum",
-        "asset": "Bedrijfsmiddel",
         "assetAssignment": "Activatoewijzing",
         "assetAssignments": "Activatoewijzingen",
         "assetCategories": "Categorieën bedrijfsmiddelen",
@@ -17,9 +16,6 @@
         "assetDisposals": "Afstotingen van activa",
         "assetManagement": "Activabeheer",
         "assetStatus": "Activastatus",
-        "assetStatuses": "Activastatussen",
-        "assets": "Bedrijfsmiddelen",
-        "condition": "Staat",
-        "serialNumber": "Serienummer"
+        "assetStatuses": "Activastatussen"
     }
 }

@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Edinme maliyeti",
         "acquisitionDate": "Edinme tarihi",
-        "asset": "Varlık",
         "assetAssignment": "Varlık tahsisi",
         "assetAssignments": "Varlık tahsisleri",
         "assetCategories": "Varlık kategorileri",
@@ -17,9 +16,6 @@
         "assetDisposals": "Varlık elden çıkarma işlemleri",
         "assetManagement": "Varlık yönetimi",
         "assetStatus": "Varlık durumu",
-        "assetStatuses": "Varlık durumları",
-        "assets": "Varlıklar",
-        "condition": "Durum",
-        "serialNumber": "Seri numarası"
+        "assetStatuses": "Varlık durumları"
     }
 }

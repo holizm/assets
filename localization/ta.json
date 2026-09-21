@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "கையகப்படுத்தல் செலவு",
         "acquisitionDate": "கையகப்படுத்திய தேதி",
-        "asset": "சொத்து",
         "assetAssignment": "சொத்து ஒதுக்கீடு",
         "assetAssignments": "சொத்து ஒதுக்கீடுகள்",
         "assetCategories": "சொத்து வகைகள்",
@@ -17,9 +16,6 @@
         "assetDisposals": "சொத்து அகற்றல்கள்",
         "assetManagement": "சொத்து மேலாண்மை",
         "assetStatus": "சொத்தின் நிலை",
-        "assetStatuses": "சொத்துகளின் நிலைகள்",
-        "assets": "சொத்துகள்",
-        "condition": "நிலை",
-        "serialNumber": "வரிசை எண்"
+        "assetStatuses": "சொத்துகளின் நிலைகள்"
     }
 }

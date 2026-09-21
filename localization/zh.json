@@ -1,6 +1,5 @@
 {
     "common": {
-        "asset": "资产",
         "assetAssignment": "资产分配",
         "assetAssignments": "资产分配",
         "assetCategories": "资产类别",
@@ -14,7 +13,6 @@
         "assetDisposal": "资产处置",
         "assetDisposals": "资产处置",
         "assetStatus": "资产状态",
-        "assetStatuses": "资产状态",
-        "assets": "资产"
+        "assetStatuses": "资产状态"
     }
 }

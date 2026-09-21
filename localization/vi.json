@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Chi phí mua",
         "acquisitionDate": "Ngày mua",
-        "asset": "Tài sản",
         "assetAssignment": "Phân bổ tài sản",
         "assetAssignments": "Các phân bổ tài sản",
         "assetCategories": "Danh mục tài sản",
@@ -17,9 +16,6 @@
         "assetDisposals": "Các đợt thanh lý tài sản",
         "assetManagement": "Quản lý tài sản",
         "assetStatus": "Trạng thái tài sản",
-        "assetStatuses": "Các trạng thái tài sản",
-        "assets": "Tài sản",
-        "condition": "Tình trạng",
-        "serialNumber": "Số sê-ri"
+        "assetStatuses": "Các trạng thái tài sản"
     }
 }

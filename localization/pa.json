@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "ਪ੍ਰਾਪਤੀ ਲਾਗਤ",
         "acquisitionDate": "ਪ੍ਰਾਪਤੀ ਮਿਤੀ",
-        "asset": "ਸੰਪਤੀ",
         "assetAssignment": "ਸੰਪਤੀ ਦੀ ਵੰਡ",
         "assetAssignments": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਵੰਡਾਂ",
         "assetCategories": "ਸੰਪਤੀ ਸ਼੍ਰੇਣੀਆਂ",
@@ -17,9 +16,6 @@
         "assetDisposals": "ਸੰਪਤੀਆਂ ਦੇ ਨਿਪਟਾਰੇ",
         "assetManagement": "ਸੰਪਤੀ ਪ੍ਰਬੰਧਨ",
         "assetStatus": "ਸੰਪਤੀ ਦੀ ਸਥਿਤੀ",
-        "assetStatuses": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਸਥਿਤੀਆਂ",
-        "assets": "ਸੰਪਤੀਆਂ",
-        "condition": "ਹਾਲਤ",
-        "serialNumber": "ਲੜੀ ਨੰਬਰ"
+        "assetStatuses": "ਸੰਪਤੀਆਂ ਦੀਆਂ ਸਥਿਤੀਆਂ"
     }
 }

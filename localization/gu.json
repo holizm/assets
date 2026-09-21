@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "પ્રાપ્તિ ખર્ચ",
         "acquisitionDate": "પ્રાપ્તિ તારીખ",
-        "asset": "સંપત્તિ",
         "assetAssignment": "સંપત્તિની ફાળવણી",
         "assetAssignments": "સંપત્તિની ફાળવણીઓ",
         "assetCategories": "સંપત્તિ શ્રેણીઓ",
@@ -17,9 +16,6 @@
         "assetDisposals": "સંપત્તિઓના નિકાલ",
         "assetManagement": "સંપત્તિ વ્યવસ્થાપન",
         "assetStatus": "સંપત્તિની સ્થિતિ",
-        "assetStatuses": "સંપત્તિઓની સ્થિતિઓ",
-        "assets": "સંપત્તિઓ",
-        "condition": "સ્થિતિ",
-        "serialNumber": "અનુક્રમ નંબર"
+        "assetStatuses": "સંપત્તિઓની સ્થિતિઓ"
     }
 }

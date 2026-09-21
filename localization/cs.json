@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Pořizovací cena",
         "acquisitionDate": "Datum pořízení",
-        "asset": "Majetek",
         "assetAssignment": "Přidělení majetku",
         "assetAssignments": "Přidělení majetku",
         "assetCategories": "Kategorie majetku",
@@ -17,9 +16,6 @@
         "assetDisposals": "Vyřazení majetku",
         "assetManagement": "Správa majetku",
         "assetStatus": "Stav majetku",
-        "assetStatuses": "Stavy majetku",
-        "assets": "Majetek",
-        "condition": "Stav",
-        "serialNumber": "Sériové číslo"
+        "assetStatuses": "Stavy majetku"
     }
 }

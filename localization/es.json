@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Coste de adquisición",
         "acquisitionDate": "Fecha de adquisición",
-        "asset": "Activo",
         "assetAssignment": "Asignación de activo",
         "assetAssignments": "Asignaciones de activos",
         "assetCategories": "Categorías de activos",
@@ -17,9 +16,6 @@
         "assetDisposals": "Bajas de activos",
         "assetManagement": "Gestión de activos",
         "assetStatus": "Estado del activo",
-        "assetStatuses": "Estados de los activos",
-        "assets": "Activos",
-        "condition": "Estado",
-        "serialNumber": "Número de serie"
+        "assetStatuses": "Estados de los activos"
     }
 }

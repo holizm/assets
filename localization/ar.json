@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "تكلفة الاقتناء",
         "acquisitionDate": "تاريخ الاقتناء",
-        "asset": "أصل",
         "assetAssignment": "تخصيص الأصل",
         "assetAssignments": "تخصيصات الأصول",
         "assetCategories": "فئات الأصول",
@@ -17,9 +16,6 @@
         "assetDisposals": "استبعادات الأصول",
         "assetManagement": "إدارة الأصول",
         "assetStatus": "حالة الأصل",
-        "assetStatuses": "حالات الأصول",
-        "assets": "الأصول",
-        "condition": "الحالة",
-        "serialNumber": "الرقم التسلسلي"
+        "assetStatuses": "حالات الأصول"
     }
 }

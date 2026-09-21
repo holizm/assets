@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Verkrygingskoste",
         "acquisitionDate": "Verkrygingsdatum",
-        "asset": "Bate",
         "assetAssignment": "Batetoewysing",
         "assetAssignments": "Batetoewysings",
         "assetCategories": "Batekategorieë",
@@ -17,9 +16,6 @@
         "assetDisposals": "Batevervreemdings",
         "assetManagement": "Batebestuur",
         "assetStatus": "Batestatus",
-        "assetStatuses": "Batestatusse",
-        "assets": "Bates",
-        "condition": "Toestand",
-        "serialNumber": "Reeksnommer"
+        "assetStatuses": "Batestatusse"
     }
 }

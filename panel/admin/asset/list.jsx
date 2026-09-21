@@ -6,10 +6,10 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>assetsAsset</th>
+    <th start>coreAsset</th>
     <th>assetsCode</th>
-    <th>assetsSerialNumber</th>
-    <th>assetsCondition</th>
+    <th>coreSerialNumber</th>
+    <th>corePhysicalCondition</th>
     <th>stateMachinesState</th>
 </>
 

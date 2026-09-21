@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Biaya perolehan",
         "acquisitionDate": "Tanggal perolehan",
-        "asset": "Aset",
         "assetAssignment": "Penugasan aset",
         "assetAssignments": "Penugasan aset",
         "assetCategories": "Kategori aset",
@@ -17,9 +16,6 @@
         "assetDisposals": "Pelepasan aset",
         "assetManagement": "Manajemen aset",
         "assetStatus": "Status aset",
-        "assetStatuses": "Status aset",
-        "assets": "Aset",
-        "condition": "Kondisi",
-        "serialNumber": "Nomor seri"
+        "assetStatuses": "Status aset"
     }
 }

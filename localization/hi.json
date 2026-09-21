@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "अधिग्रहण लागत",
         "acquisitionDate": "अधिग्रहण तिथि",
-        "asset": "परिसंपत्ति",
         "assetAssignment": "परिसंपत्ति आवंटन",
         "assetAssignments": "परिसंपत्ति आवंटन",
         "assetCategories": "परिसंपत्ति श्रेणियाँ",
@@ -17,9 +16,6 @@
         "assetDisposals": "परिसंपत्ति निपटान",
         "assetManagement": "परिसंपत्ति प्रबंधन",
         "assetStatus": "परिसंपत्ति की स्थिति",
-        "assetStatuses": "परिसंपत्तियों की स्थितियाँ",
-        "assets": "परिसंपत्तियाँ",
-        "condition": "स्थिति",
-        "serialNumber": "क्रमांक"
+        "assetStatuses": "परिसंपत्तियों की स्थितियाँ"
     }
 }

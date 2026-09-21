@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Koszt nabycia",
         "acquisitionDate": "Data nabycia",
-        "asset": "Składnik majątku",
         "assetAssignment": "Przypisanie środka trwałego",
         "assetAssignments": "Przypisania środków trwałych",
         "assetCategories": "Kategorie majątku",
@@ -17,9 +16,6 @@
         "assetDisposals": "Zbycia środków trwałych",
         "assetManagement": "Zarządzanie majątkiem",
         "assetStatus": "Status środka trwałego",
-        "assetStatuses": "Statusy środków trwałych",
-        "assets": "Składniki majątku",
-        "condition": "Stan",
-        "serialNumber": "Numer seryjny"
+        "assetStatuses": "Statusy środków trwałych"
     }
 }

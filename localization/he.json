@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "עלות רכישה",
         "acquisitionDate": "תאריך רכישה",
-        "asset": "נכס",
         "assetAssignment": "הקצאת נכס",
         "assetAssignments": "הקצאות נכסים",
         "assetCategories": "קטגוריות נכסים",
@@ -17,9 +16,6 @@
         "assetDisposals": "גריעות נכסים",
         "assetManagement": "ניהול נכסים",
         "assetStatus": "סטטוס נכס",
-        "assetStatuses": "סטטוסים של נכסים",
-        "assets": "נכסים",
-        "condition": "מצב",
-        "serialNumber": "מספר סידורי"
+        "assetStatuses": "סטטוסים של נכסים"
     }
 }

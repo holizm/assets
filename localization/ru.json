@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Стоимость приобретения",
         "acquisitionDate": "Дата приобретения",
-        "asset": "Актив",
         "assetAssignment": "Назначение актива",
         "assetAssignments": "Назначения активов",
         "assetCategories": "Категории активов",
@@ -17,9 +16,6 @@
         "assetDisposals": "Выбытия активов",
         "assetManagement": "Управление активами",
         "assetStatus": "Статус актива",
-        "assetStatuses": "Статусы активов",
-        "assets": "Активы",
-        "condition": "Состояние",
-        "serialNumber": "Серийный номер"
+        "assetStatuses": "Статусы активов"
     }
 }

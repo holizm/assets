@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "ഏറ്റെടുക്കൽ ചെലവ്",
         "acquisitionDate": "ഏറ്റെടുത്ത തീയതി",
-        "asset": "ആസ്തി",
         "assetAssignment": "ആസ്തി അനുവദിക്കൽ",
         "assetAssignments": "ആസ്തി അനുവദിക്കലുകൾ",
         "assetCategories": "ആസ്തി വിഭാഗങ്ങൾ",
@@ -17,9 +16,6 @@
         "assetDisposals": "ആസ്തി ഒഴിവാക്കലുകൾ",
         "assetManagement": "ആസ്തി പരിപാലനം",
         "assetStatus": "ആസ്തിയുടെ നില",
-        "assetStatuses": "ആസ്തികളുടെ നിലകൾ",
-        "assets": "ആസ്തികൾ",
-        "condition": "അവസ്ഥ",
-        "serialNumber": "സീരിയൽ നമ്പർ"
+        "assetStatuses": "ആസ്തികളുടെ നിലകൾ"
     }
 }

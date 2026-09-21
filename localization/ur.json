@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "حصول کی لاگت",
         "acquisitionDate": "حصول کی تاریخ",
-        "asset": "اثاثہ",
         "assetAssignment": "اثاثے کی تخصیص",
         "assetAssignments": "اثاثوں کی تخصیصات",
         "assetCategories": "اثاثوں کے زمرے",
@@ -17,9 +16,6 @@
         "assetDisposals": "اثاثوں کے تصرفات",
         "assetManagement": "اثاثہ جات کا انتظام",
         "assetStatus": "اثاثے کی حیثیت",
-        "assetStatuses": "اثاثوں کی حیثیتیں",
-        "assets": "اثاثے",
-        "condition": "حالت",
-        "serialNumber": "سیریل نمبر"
+        "assetStatuses": "اثاثوں کی حیثیتیں"
     }
 }

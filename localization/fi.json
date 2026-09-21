@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Hankintameno",
         "acquisitionDate": "Hankintapäivä",
-        "asset": "Käyttöomaisuus",
         "assetAssignment": "Omaisuuserän kohdistus",
         "assetAssignments": "Omaisuuserien kohdistukset",
         "assetCategories": "Omaisuusluokat",
@@ -17,9 +16,6 @@
         "assetDisposals": "Omaisuuserien luovutukset",
         "assetManagement": "Omaisuudenhallinta",
         "assetStatus": "Omaisuuserän tila",
-        "assetStatuses": "Omaisuuserien tilat",
-        "assets": "Omaisuus",
-        "condition": "Kunto",
-        "serialNumber": "Sarjanumero"
+        "assetStatuses": "Omaisuuserien tilat"
     }
 }

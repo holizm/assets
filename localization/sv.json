@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Anskaffningskostnad",
         "acquisitionDate": "Anskaffningsdatum",
-        "asset": "Tillgång",
         "assetAssignment": "Tillgångstilldelning",
         "assetAssignments": "Tillgångstilldelningar",
         "assetCategories": "Tillgångskategorier",
@@ -17,9 +16,6 @@
         "assetDisposals": "Avyttringar av tillgångar",
         "assetManagement": "Tillgångsförvaltning",
         "assetStatus": "Tillgångsstatus",
-        "assetStatuses": "Tillgångsstatusar",
-        "assets": "Tillgångar",
-        "condition": "Skick",
-        "serialNumber": "Serienummer"
+        "assetStatuses": "Tillgångsstatusar"
     }
 }

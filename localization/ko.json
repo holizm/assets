@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "취득 원가",
         "acquisitionDate": "취득일",
-        "asset": "자산",
         "assetAssignment": "자산 배정",
         "assetAssignments": "자산 배정",
         "assetCategories": "자산 범주",
@@ -17,9 +16,6 @@
         "assetDisposals": "자산 처분",
         "assetManagement": "자산 관리",
         "assetStatus": "자산 상태",
-        "assetStatuses": "자산 상태",
-        "assets": "자산",
-        "condition": "상태",
-        "serialNumber": "일련번호"
+        "assetStatuses": "자산 상태"
     }
 }

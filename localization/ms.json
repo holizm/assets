@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Kos pemerolehan",
         "acquisitionDate": "Tarikh pemerolehan",
-        "asset": "Aset",
         "assetAssignment": "Penyerahan aset",
         "assetAssignments": "Penyerahan aset",
         "assetCategories": "Kategori aset",
@@ -17,9 +16,6 @@
         "assetDisposals": "Pelupusan aset",
         "assetManagement": "Pengurusan aset",
         "assetStatus": "Status aset",
-        "assetStatuses": "Status aset",
-        "assets": "Aset",
-        "condition": "Keadaan",
-        "serialNumber": "Nombor siri"
+        "assetStatuses": "Status aset"
     }
 }

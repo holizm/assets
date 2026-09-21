@@ -3,7 +3,7 @@ export default [
         children: [
             {
                 path: '/assets/asset/list',
-                title: 'assetsAssets',
+                title: 'coreAssets',
             },
             {
                 path: '/assets/assetCategory/list',

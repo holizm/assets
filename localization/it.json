@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Costo di acquisizione",
         "acquisitionDate": "Data di acquisizione",
-        "asset": "Bene",
         "assetAssignment": "Assegnazione del bene",
         "assetAssignments": "Assegnazioni dei beni",
         "assetCategories": "Categorie di beni",
@@ -17,9 +16,6 @@
         "assetDisposals": "Dismissioni dei beni",
         "assetManagement": "Gestione dei beni",
         "assetStatus": "Stato del bene",
-        "assetStatuses": "Stati dei beni",
-        "assets": "Beni",
-        "condition": "Condizione",
-        "serialNumber": "Numero di serie"
+        "assetStatuses": "Stati dei beni"
     }
 }

@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "هزینه خرید",
         "acquisitionDate": "تاریخ خرید",
-        "asset": "دارایی",
         "assetAssignment": "تخصیص دارایی",
         "assetAssignments": "تخصیص‌های دارایی",
         "assetCategories": "دسته‌های دارایی",
@@ -17,9 +16,6 @@
         "assetDisposals": "واگذاری‌های دارایی",
         "assetManagement": "مدیریت دارایی‌ها",
         "assetStatus": "وضعیت دارایی",
-        "assetStatuses": "وضعیت‌های دارایی",
-        "assets": "دارایی‌ها",
-        "condition": "وضعیت فیزیکی",
-        "serialNumber": "شماره سریال"
+        "assetStatuses": "وضعیت‌های دارایی"
     }
 }

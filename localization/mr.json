@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "संपादन खर्च",
         "acquisitionDate": "संपादन तारीख",
-        "asset": "मालमत्ता",
         "assetAssignment": "मालमत्तेचे वाटप",
         "assetAssignments": "मालमत्तांची वाटपे",
         "assetCategories": "मालमत्ता श्रेणी",
@@ -17,9 +16,6 @@
         "assetDisposals": "मालमत्तांच्या विल्हेवाटी",
         "assetManagement": "मालमत्ता व्यवस्थापन",
         "assetStatus": "मालमत्तेची स्थिती",
-        "assetStatuses": "मालमत्तांच्या स्थिती",
-        "assets": "मालमत्ता",
-        "condition": "स्थिती",
-        "serialNumber": "अनुक्रमांक"
+        "assetStatuses": "मालमत्तांच्या स्थिती"
     }
 }

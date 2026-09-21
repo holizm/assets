@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Gharama ya ununuzi",
         "acquisitionDate": "Tarehe ya ununuzi",
-        "asset": "Raslimali",
         "assetAssignment": "Ugawaji wa mali",
         "assetAssignments": "Ugawaji wa mali",
         "assetCategories": "Aina za raslimali",
@@ -17,9 +16,6 @@
         "assetDisposals": "Uondoaji wa mali",
         "assetManagement": "Usimamizi wa raslimali",
         "assetStatus": "Hali ya mali",
-        "assetStatuses": "Hali za mali",
-        "assets": "Raslimali",
-        "condition": "Hali",
-        "serialNumber": "Nambari tambulishi"
+        "assetStatuses": "Hali za mali"
     }
 }

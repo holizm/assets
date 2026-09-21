@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Kudin saye",
         "acquisitionDate": "Ranar saye",
-        "asset": "Kadara",
         "assetAssignment": "Rabon kadara",
         "assetAssignments": "Rabukan kadarori",
         "assetCategories": "Rukunin kadarori",
@@ -17,9 +16,6 @@
         "assetDisposals": "Zubar da kadarori",
         "assetManagement": "Gudanar da kadarori",
         "assetStatus": "Matsayin kadara",
-        "assetStatuses": "Matsayen kadarori",
-        "assets": "Kadarori",
-        "condition": "Yanayi",
-        "serialNumber": "Lambar jeri"
+        "assetStatuses": "Matsayen kadarori"
     }
 }

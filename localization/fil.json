@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Gastos sa pagkuha",
         "acquisitionDate": "Petsa ng pagkuha",
-        "asset": "Asset",
         "assetAssignment": "Pagtatalaga ng ari-arian",
         "assetAssignments": "Mga pagtatalaga ng ari-arian",
         "assetCategories": "Mga kategorya ng asset",
@@ -17,9 +16,6 @@
         "assetDisposals": "Mga pagtatapon ng ari-arian",
         "assetManagement": "Pamamahala ng asset",
         "assetStatus": "Katayuan ng ari-arian",
-        "assetStatuses": "Mga katayuan ng ari-arian",
-        "assets": "Mga asset",
-        "condition": "Kondisyon",
-        "serialNumber": "Serial number"
+        "assetStatuses": "Mga katayuan ng ari-arian"
     }
 }

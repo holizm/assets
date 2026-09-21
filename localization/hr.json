@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Trošak nabave",
         "acquisitionDate": "Datum nabave",
-        "asset": "Imovina",
         "assetAssignment": "Dodjela imovine",
         "assetAssignments": "Dodjele imovine",
         "assetCategories": "Kategorije imovine",
@@ -17,9 +16,6 @@
         "assetDisposals": "Otpisi imovine",
         "assetManagement": "Upravljanje imovinom",
         "assetStatus": "Status imovine",
-        "assetStatuses": "Statusi imovine",
-        "assets": "Imovina",
-        "condition": "Stanje",
-        "serialNumber": "Serijski broj"
+        "assetStatuses": "Statusi imovine"
     }
 }

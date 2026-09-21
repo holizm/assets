@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "অধিগ্রহণ ব্যয়",
         "acquisitionDate": "অধিগ্রহণের তারিখ",
-        "asset": "সম্পদ",
         "assetAssignment": "সম্পদ বরাদ্দ",
         "assetAssignments": "সম্পদ বরাদ্দসমূহ",
         "assetCategories": "সম্পদের বিভাগসমূহ",
@@ -17,9 +16,6 @@
         "assetDisposals": "সম্পদ নিষ্পত্তিসমূহ",
         "assetManagement": "সম্পদ ব্যবস্থাপনা",
         "assetStatus": "সম্পদের স্থিতি",
-        "assetStatuses": "সম্পদের স্থিতিসমূহ",
-        "assets": "সম্পদসমূহ",
-        "condition": "অবস্থা",
-        "serialNumber": "ক্রমিক নম্বর"
+        "assetStatuses": "সম্পদের স্থিতিসমূহ"
     }
 }

@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "ต้นทุนการได้มา",
         "acquisitionDate": "วันที่ได้มา",
-        "asset": "สินทรัพย์",
         "assetAssignment": "การจัดสรรสินทรัพย์",
         "assetAssignments": "การจัดสรรสินทรัพย์",
         "assetCategories": "หมวดหมู่สินทรัพย์",
@@ -17,9 +16,6 @@
         "assetDisposals": "การจำหน่ายสินทรัพย์",
         "assetManagement": "การจัดการสินทรัพย์",
         "assetStatus": "สถานะสินทรัพย์",
-        "assetStatuses": "สถานะสินทรัพย์",
-        "assets": "สินทรัพย์",
-        "condition": "สภาพ",
-        "serialNumber": "หมายเลขประจำเครื่อง"
+        "assetStatuses": "สถานะสินทรัพย์"
     }
 }

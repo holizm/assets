@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Acquisition cost",
         "acquisitionDate": "Acquisition date",
-        "asset": "Asset",
         "assetAssignment": "Asset assignment",
         "assetAssignments": "Asset assignments",
         "assetCategories": "Asset categories",
@@ -17,9 +16,6 @@
         "assetDisposals": "Asset disposals",
         "assetManagement": "Asset management",
         "assetStatus": "Asset status",
-        "assetStatuses": "Asset statuses",
-        "assets": "Assets",
-        "condition": "Condition",
-        "serialNumber": "Serial number"
+        "assetStatuses": "Asset statuses"
     }
 }

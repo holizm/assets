@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "కొనుగోలు వ్యయం",
         "acquisitionDate": "కొనుగోలు తేదీ",
-        "asset": "ఆస్తి",
         "assetAssignment": "ఆస్తి కేటాయింపు",
         "assetAssignments": "ఆస్తి కేటాయింపులు",
         "assetCategories": "ఆస్తి వర్గాలు",
@@ -17,9 +16,6 @@
         "assetDisposals": "ఆస్తి తొలగింపులు",
         "assetManagement": "ఆస్తి నిర్వహణ",
         "assetStatus": "ఆస్తి స్థితి",
-        "assetStatuses": "ఆస్తి స్థితులు",
-        "assets": "ఆస్తులు",
-        "condition": "స్థితి",
-        "serialNumber": "క్రమ సంఖ్య"
+        "assetStatuses": "ఆస్తి స్థితులు"
     }
 }

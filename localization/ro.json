@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Cost de achiziție",
         "acquisitionDate": "Data achiziției",
-        "asset": "Activ",
         "assetAssignment": "Alocare de activ",
         "assetAssignments": "Alocări de active",
         "assetCategories": "Categorii de active",
@@ -17,9 +16,6 @@
         "assetDisposals": "Scoateri din evidență ale activelor",
         "assetManagement": "Gestionarea activelor",
         "assetStatus": "Statutul activului",
-        "assetStatuses": "Statutele activelor",
-        "assets": "Active",
-        "condition": "Stare",
-        "serialNumber": "Număr de serie"
+        "assetStatuses": "Statutele activelor"
     }
 }

@@ -2,7 +2,6 @@
     "common": {
         "acquisitionCost": "Вартість придбання",
         "acquisitionDate": "Дата придбання",
-        "asset": "Актив",
         "assetAssignment": "Призначення активу",
         "assetAssignments": "Призначення активів",
         "assetCategories": "Категорії активів",
@@ -17,9 +16,6 @@
         "assetDisposals": "Вибуття активів",
         "assetManagement": "Управління активами",
         "assetStatus": "Статус активу",
-        "assetStatuses": "Статуси активів",
-        "assets": "Активи",
-        "condition": "Стан",
-        "serialNumber": "Серійний номер"
+        "assetStatuses": "Статуси активів"
     }
 }
