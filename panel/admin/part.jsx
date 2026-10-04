@@ -1,5 +1,5 @@
 import { Part } from 'panel'
 
 export default <Part
-    title='coreAssets'
+    title='assets'
 />

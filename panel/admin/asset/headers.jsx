@@ -1,7 +1,7 @@
 export default <>
-    <th start>coreAsset</th>
-    <th>assetsCode</th>
-    <th>coreSerialNumber</th>
-    <th>corePhysicalCondition</th>
-    <th>stateMachinesState</th>
+    <th start>asset</th>
+    <th>code</th>
+    <th>serialNumber</th>
+    <th>physicalCondition</th>
+    <th>state</th>
 </>

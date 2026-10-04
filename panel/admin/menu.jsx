@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/assets/asset/list',
-                title: 'coreAssets',
+                title: 'assets',
             },
             {
                 path: '/assets/assetCategory/list',
-                title: 'assetsAssetCategories',
+                title: 'assetCategories',
             },
         ],
         icon: 'precisionManufacturing',
         path: '/assets',
-        title: 'assetsAssetManagement',
+        title: 'assetManagement',
     },
 ]

@@ -37,6 +37,8 @@ asset
     assetDepreciationMethod optional
     description optional
     unique code
+    uses
+        stateMachines
 assetAssignment
     asset
     assignee

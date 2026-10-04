@@ -11,25 +11,25 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='assetsCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='assetsAssetCategory'
+        placeholder='assetCategory'
         property='assetCategory'
         required
     />
     <Text
-        placeholder='coreSerialNumber'
+        placeholder='serialNumber'
         property='serialNumber'
     />
     <DateTime
-        placeholder='assetsAcquisitionDate'
+        placeholder='acquisitionDate'
         property='acquisitionDate'
     />
     <Numeric
-        placeholder='assetsAcquisitionCost'
+        placeholder='acquisitionCost'
         property='acquisitionCost'
     />
     <Select
@@ -41,7 +41,7 @@ const inputs = <>
             'disposed',
             'lost',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='assetStatus'
         required
     />
@@ -53,12 +53,12 @@ const inputs = <>
             'poor',
             'damaged',
         ]}
-        placeholder='corePhysicalCondition'
+        placeholder='physicalCondition'
         property='assetCondition'
         required
     />
     <LongText
-        placeholder='assetsDescription'
+        placeholder='description'
         property='description'
     />
 </>

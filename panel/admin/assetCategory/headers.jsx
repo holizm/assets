@@ -1,4 +1,4 @@
 export default <>
-    <th start>assetsAssetCategory</th>
-    <th>assetsCode</th>
+    <th start>assetCategory</th>
+    <th>code</th>
 </>
