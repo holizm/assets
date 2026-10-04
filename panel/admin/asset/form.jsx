@@ -11,28 +11,18 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Text
-        placeholder='assetCategory'
-        property='assetCategory'
+        assetCategory
         required
     />
-    <Text
-        placeholder='serialNumber'
-        property='serialNumber'
-    />
-    <DateTime
-        placeholder='acquisitionDate'
-        property='acquisitionDate'
-    />
-    <Numeric
-        placeholder='acquisitionCost'
-        property='acquisitionCost'
-    />
+    <Text serialNumber />
+    <DateTime acquisitionDate />
+    <Numeric acquisitionCost />
     <Select
+        assetStatus
         options={[
             'planned',
             'active',
@@ -42,10 +32,10 @@ const inputs = <>
             'lost',
         ]}
         placeholder='state'
-        property='assetStatus'
         required
     />
     <Select
+        assetCondition
         options={[
             'new',
             'good',
@@ -54,13 +44,9 @@ const inputs = <>
             'damaged',
         ]}
         placeholder='physicalCondition'
-        property='assetCondition'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
