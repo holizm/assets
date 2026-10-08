@@ -9,15 +9,9 @@ assetDepreciationMethod options
     decliningBalance
     unitsOfProduction
     none
-assetCategory
-    title
-    code
-    description optional
-    unique code
 asset
     title
     code
-    assetCategory
     serialNumber optional
     acquisitionDate optional
     acquisitionCost realNumber optional
@@ -31,6 +25,7 @@ asset
     unique code
     uses
         stateMachines
+        taxonomy
 assetAssignment
     asset
     assignee

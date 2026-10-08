@@ -1,3 +1,7 @@
 import { StateMachinesItemStateProperty } from 'stateMachines'
+import { TaxonomyCategoryManage } from 'taxonomy'
 
-export default <StateMachinesItemStateProperty />
+export default <>
+    <TaxonomyCategoryManage singleChoice />
+    <StateMachinesItemStateProperty />
+</>

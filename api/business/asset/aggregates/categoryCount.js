@@ -1,4 +1,0 @@
-[
-    { $match: { assetCategory } },
-    { $count: 'count' },
-]

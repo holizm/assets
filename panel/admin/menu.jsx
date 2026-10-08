@@ -5,10 +5,6 @@ export default [
                 path: '/assets/asset/list',
                 title: 'assets',
             },
-            {
-                path: '/assets/assetCategory/list',
-                title: 'assetCategories',
-            },
         ],
         icon: 'precisionManufacturing',
         path: '/assets',

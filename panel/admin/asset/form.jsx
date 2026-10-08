@@ -14,10 +14,6 @@ const inputs = <>
         code
         required
     />
-    <Text
-        assetCategory
-        required
-    />
     <Text serialNumber />
     <DateTime acquisitionDate />
     <Numeric acquisitionCost />
