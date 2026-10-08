@@ -22,19 +22,6 @@ const inputs = <>
     <DateTime acquisitionDate />
     <Numeric acquisitionCost />
     <Select
-        assetStatus
-        options={[
-            'planned',
-            'active',
-            'inactive',
-            'underMaintenance',
-            'disposed',
-            'lost',
-        ]}
-        placeholder='state'
-        required
-    />
-    <Select
         assetCondition
         options={[
             'new',

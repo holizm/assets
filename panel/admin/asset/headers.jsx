@@ -3,5 +3,4 @@ export default <>
     <th>code</th>
     <th>serialNumber</th>
     <th>physicalCondition</th>
-    <th>state</th>
 </>
