@@ -1,0 +1,30 @@
+{
+    "title": "Inactive",
+    "meaning": "inactive",
+    "transition": [
+        "Active",
+        "Under Maintenance",
+        "Disposed",
+        "Lost"
+    ],
+    "translations": {
+        "ar": "غير نشط",
+        "bn": "নিষ্ক্রিয়",
+        "de": "Inaktiv",
+        "en": "Inactive",
+        "es": "Inactivo",
+        "fa": "غیرفعال",
+        "fr": "Inactif",
+        "hi": "निष्क्रिय",
+        "it": "Inattivo",
+        "ja": "停止中",
+        "ko": "비활성",
+        "pt": "Inativo",
+        "ru": "Неактивен",
+        "ta": "செயலற்றது",
+        "tr": "Pasif",
+        "ur": "غیر فعال",
+        "vi": "Không hoạt động",
+        "zh": "未使用"
+    }
+}

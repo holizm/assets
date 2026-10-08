@@ -1,0 +1,30 @@
+{
+    "title": "Planned",
+    "meaning": "planned",
+    "initial": true,
+    "transition": [
+        "Active",
+        "Inactive",
+        "Lost"
+    ],
+    "translations": {
+        "ar": "مخطط له",
+        "bn": "পরিকল্পিত",
+        "de": "Geplant",
+        "en": "Planned",
+        "es": "Planificado",
+        "fa": "برنامه‌ریزی‌شده",
+        "fr": "Planifié",
+        "hi": "नियोजित",
+        "it": "Pianificato",
+        "ja": "計画中",
+        "ko": "계획됨",
+        "pt": "Planejado",
+        "ru": "Запланировано",
+        "ta": "திட்டமிடப்பட்டது",
+        "tr": "Planlandı",
+        "ur": "منصوبہ بند",
+        "vi": "Đã lên kế hoạch",
+        "zh": "已计划"
+    }
+}

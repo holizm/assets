@@ -1,0 +1,25 @@
+{
+    "title": "Lost",
+    "meaning": "lost",
+    "transition": [],
+    "translations": {
+        "ar": "مفقود",
+        "bn": "হারানো",
+        "de": "Verloren",
+        "en": "Lost",
+        "es": "Perdido",
+        "fa": "مفقود",
+        "fr": "Perdu",
+        "hi": "खोया हुआ",
+        "it": "Smarrito",
+        "ja": "紛失",
+        "ko": "분실",
+        "pt": "Perdido",
+        "ru": "Утерян",
+        "ta": "காணவில்லை",
+        "tr": "Kayıp",
+        "ur": "گمشدہ",
+        "vi": "Thất lạc",
+        "zh": "丢失"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Active",
+    "meaning": "active",
+    "transition": [
+        "Inactive",
+        "Under Maintenance",
+        "Disposed",
+        "Lost"
+    ],
+    "translations": {
+        "ar": "نشط",
+        "bn": "সক্রিয়",
+        "de": "Aktiv",
+        "en": "Active",
+        "es": "Activo",
+        "fa": "فعال",
+        "fr": "Actif",
+        "hi": "सक्रिय",
+        "it": "Attivo",
+        "ja": "稼働中",
+        "ko": "활성",
+        "pt": "Ativo",
+        "ru": "Активен",
+        "ta": "செயலில்",
+        "tr": "Aktif",
+        "ur": "فعال",
+        "vi": "Đang hoạt động",
+        "zh": "使用中"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Disposed",
+    "meaning": "disposed",
+    "transition": [],
+    "translations": {
+        "ar": "تم التخلص منه",
+        "bn": "নিষ্পত্তিকৃত",
+        "de": "Ausgemustert",
+        "en": "Disposed",
+        "es": "Dado de baja",
+        "fa": "واگذار‌شده",
+        "fr": "Mis au rebut",
+        "hi": "निस्तारित",
+        "it": "Dismesso",
+        "ja": "処分済み",
+        "ko": "처분됨",
+        "pt": "Descartado",
+        "ru": "Списан",
+        "ta": "அகற்றப்பட்டது",
+        "tr": "Elden çıkarıldı",
+        "ur": "تلف شدہ",
+        "vi": "Đã thanh lý",
+        "zh": "已处置"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Under Maintenance",
+    "meaning": "underMaintenance",
+    "transition": [
+        "Active",
+        "Inactive",
+        "Disposed",
+        "Lost"
+    ],
+    "translations": {
+        "ar": "قيد الصيانة",
+        "bn": "রক্ষণাবেক্ষণাধীন",
+        "de": "In Wartung",
+        "en": "Under maintenance",
+        "es": "En mantenimiento",
+        "fa": "در حال تعمیر",
+        "fr": "En maintenance",
+        "hi": "रखरखाव में",
+        "it": "In manutenzione",
+        "ja": "保守中",
+        "ko": "유지 보수 중",
+        "pt": "Em manutenção",
+        "ru": "На обслуживании",
+        "ta": "பராமரிப்பில்",
+        "tr": "Bakımda",
+        "ur": "زیر مرمت",
+        "vi": "Đang bảo trì",
+        "zh": "维护中"
+    }
+}
