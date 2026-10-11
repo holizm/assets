@@ -1,11 +1,9 @@
 {
-    "title": "Under Maintenance",
-    "meaning": "underMaintenance",
     "transition": [
-        "Active",
-        "Inactive",
-        "Disposed",
-        "Lost"
+        "active",
+        "inactive",
+        "disposed",
+        "lost"
     ],
     "translations": {
         "af": "Onder instandhouding",

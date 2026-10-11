@@ -1,11 +1,9 @@
 {
-    "title": "Inactive",
-    "meaning": "inactive",
     "transition": [
-        "Active",
-        "Under Maintenance",
-        "Disposed",
-        "Lost"
+        "active",
+        "underMaintenance",
+        "disposed",
+        "lost"
     ],
     "translations": {
         "af": "Onaktief",

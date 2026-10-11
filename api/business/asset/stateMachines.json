@@ -1,7 +1,5 @@
 [
     {
-        "meaning": "assetStatus",
-        "title": "Asset Status",
         "default": true,
         "states": [
             "planned",

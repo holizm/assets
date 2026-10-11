@@ -1,11 +1,9 @@
 {
-    "title": "Planned",
-    "meaning": "planned",
     "initial": true,
     "transition": [
-        "Active",
-        "Inactive",
-        "Lost"
+        "active",
+        "inactive",
+        "lost"
     ],
     "translations": {
         "af": "Beplan",
